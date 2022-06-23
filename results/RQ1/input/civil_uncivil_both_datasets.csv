@@ -1,0 +1,211 @@
+model,class_balancing,metric,score,order,data
+BERT,-,Recall,0.93,1,Issues dataset
+BERT,Random Undersampling,Recall,0.93,1,Issues dataset
+BERT,Random Oversampling,Recall,0.93,1,Issues dataset
+CART,Random Undersampling,Recall,0.65,2,Issues dataset
+CART,Random Oversampling,Recall,0.63,2,Issues dataset
+CART,SMOTE,Recall,0.64,2,Issues dataset
+KNN,Random Undersampling,Recall,0.56,3,Issues dataset
+KNN,Random Oversampling,Recall,0.56,3,Issues dataset
+KNN,SMOTE,Recall,0.56,3,Issues dataset
+LR,Random Undersampling,Recall,0.72,4,Issues dataset
+LR,Random Oversampling,Recall,0.72,4,Issues dataset
+LR,SMOTE,Recall,0.72,4,Issues dataset
+NB,Random Undersampling,Recall,0.62,5,Issues dataset
+NB,Random Oversampling,Recall,0.63,5,Issues dataset
+NB,SMOTE,Recall,0.64,5,Issues dataset
+RF,Random Undersampling,Recall,0.68,6,Issues dataset
+RF,Random Oversampling,Recall,0.66,6,Issues dataset
+RF,SMOTE,Recall,0.66,6,Issues dataset
+SVM,Random Undersampling,Recall,0.52,7,Issues dataset
+SVM,Random Oversampling,Recall,0.54,7,Issues dataset
+SVM,SMOTE,Recall,0.55,7,Issues dataset
+BERT,-,Precision,0.93,1,Issues dataset
+BERT,Random Undersampling,Precision,0.95,1,Issues dataset
+BERT,Random Oversampling,Precision,0.95,1,Issues dataset
+CART,Random Undersampling,Precision,0.64,2,Issues dataset
+CART,Random Oversampling,Precision,0.63,2,Issues dataset
+CART,SMOTE,Precision,0.63,2,Issues dataset
+KNN,Random Undersampling,Precision,0.56,3,Issues dataset
+KNN,Random Oversampling,Precision,0.56,3,Issues dataset
+KNN,SMOTE,Precision,0.56,3,Issues dataset
+LR,Random Undersampling,Precision,0.70,4,Issues dataset
+LR,Random Oversampling,Precision,0.71,4,Issues dataset
+LR,SMOTE,Precision,0.71,4,Issues dataset
+NB,Random Undersampling,Precision,0.64,5,Issues dataset
+NB,Random Oversampling,Precision,0.66,5,Issues dataset
+NB,SMOTE,Precision,0.67,5,Issues dataset
+RF,Random Undersampling,Precision,0.75,6,Issues dataset
+RF,Random Oversampling,Precision,0.75,6,Issues dataset
+RF,SMOTE,Precision,0.76,6,Issues dataset
+SVM,Random Undersampling,Precision,0.66,7,Issues dataset
+SVM,Random Oversampling,Precision,0.61,7,Issues dataset
+SVM,SMOTE,Precision,0.59,7,Issues dataset
+BERT,-,MCC,0.87,1,Issues dataset
+BERT,Random Undersampling,MCC,0.88,1,Issues dataset
+BERT,Random Oversampling,MCC,0.88,1,Issues dataset
+CART,Random Undersampling,MCC,0.30,2,Issues dataset
+CART,Random Oversampling,MCC,0.26,2,Issues dataset
+CART,SMOTE,MCC,0.27,2,Issues dataset
+KNN,Random Undersampling,MCC,0.12,3,Issues dataset
+KNN,Random Oversampling,MCC,0.12,3,Issues dataset
+KNN,SMOTE,MCC,0.12,3,Issues dataset
+LR,Random Undersampling,MCC,0.42,4,Issues dataset
+LR,Random Oversampling,MCC,0.43,4,Issues dataset
+LR,SMOTE,MCC,0.42,4,Issues dataset
+NB,Random Undersampling,MCC,0.27,5,Issues dataset
+NB,Random Oversampling,MCC,0.29,5,Issues dataset
+NB,SMOTE,MCC,0.31,5,Issues dataset
+RF,Random Undersampling,MCC,0.43,6,Issues dataset
+RF,Random Oversampling,MCC,0.39,6,Issues dataset
+RF,SMOTE,MCC,0.40,6,Issues dataset
+SVM,Random Undersampling,MCC,0.11,7,Issues dataset
+SVM,Random Oversampling,MCC,0.13,7,Issues dataset
+SVM,SMOTE,MCC,0.13,7,Issues dataset
+BERT,-,nMCC,0.93,1,Issues dataset
+BERT,Random Undersampling,nMCC,0.94,1,Issues dataset
+BERT,Random Oversampling,nMCC,0.94,1,Issues dataset
+CART,Random Undersampling,nMCC,0.65,2,Issues dataset
+CART,Random Oversampling,nMCC,0.63,2,Issues dataset
+CART,SMOTE,nMCC,0.64,2,Issues dataset
+KNN,Random Undersampling,nMCC,0.56,3,Issues dataset
+KNN,Random Oversampling,nMCC,0.56,3,Issues dataset
+KNN,SMOTE,nMCC,0.56,3,Issues dataset
+LR,Random Undersampling,nMCC,0.71,4,Issues dataset
+LR,Random Oversampling,nMCC,0.71,4,Issues dataset
+LR,SMOTE,nMCC,0.71,4,Issues dataset
+NB,Random Undersampling,nMCC,0.63,5,Issues dataset
+NB,Random Oversampling,nMCC,0.64,5,Issues dataset
+NB,SMOTE,nMCC,0.65,5,Issues dataset
+RF,Random Undersampling,nMCC,0.71,6,Issues dataset
+RF,Random Oversampling,nMCC,0.70,6,Issues dataset
+RF,SMOTE,nMCC,0.70,6,Issues dataset
+SVM,Random Undersampling,nMCC,0.56,7,Issues dataset
+SVM,Random Oversampling,nMCC,0.57,7,Issues dataset
+SVM,SMOTE,nMCC,0.57,7,Issues dataset
+BERT,-,F1,0.93,1,Issues dataset
+BERT,Random Undersampling,F1,0.94,1,Issues dataset
+BERT,Random Oversampling,F1,0.95,1,Issues dataset
+CART,Random Undersampling,F1,0.65,2,Issues dataset
+CART,Random Oversampling,F1,0.63,2,Issues dataset
+CART,SMOTE,F1,0.63,2,Issues dataset
+KNN,Random Undersampling,F1,0.56,3,Issues dataset
+KNN,Random Oversampling,F1,0.56,3,Issues dataset
+KNN,SMOTE,F1,0.56,3,Issues dataset
+LR,Random Undersampling,F1,0.71,4,Issues dataset
+LR,Random Oversampling,F1,0.71,4,Issues dataset
+LR,SMOTE,F1,0.71,4,Issues dataset
+NB,Random Undersampling,F1,0.63,5,Issues dataset
+NB,Random Oversampling,F1,0.64,5,Issues dataset
+NB,SMOTE,F1,0.65,5,Issues dataset
+RF,Random Undersampling,F1,0.70,6,Issues dataset
+RF,Random Oversampling,F1,0.67,6,Issues dataset
+RF,SMOTE,F1,0.67,6,Issues dataset
+SVM,Random Undersampling,F1,0.46,7,Issues dataset
+SVM,Random Oversampling,F1,0.53,7,Issues dataset
+SVM,SMOTE,F1,0.54,7,Issues dataset
+BERT,-,Recall,0.94,1,Code reviews dataset
+BERT,Random Undersampling,Recall,0.91,1,Code reviews dataset
+BERT,Random Oversampling,Recall,0.92,1,Code reviews dataset
+CART,Random Undersampling,Recall,0.65,2,Code reviews dataset
+CART,Random Oversampling,Recall,0.68,2,Code reviews dataset
+CART,SMOTE,Recall,0.66,2,Code reviews dataset
+KNN,Random Undersampling,Recall,0.61,3,Code reviews dataset
+KNN,Random Oversampling,Recall,0.60,3,Code reviews dataset
+KNN,SMOTE,Recall,0.61,3,Code reviews dataset
+LR,Random Undersampling,Recall,0.76,4,Code reviews dataset
+LR,Random Oversampling,Recall,0.77,4,Code reviews dataset
+LR,SMOTE,Recall,0.76,4,Code reviews dataset
+NB,Random Undersampling,Recall,0.75,5,Code reviews dataset
+NB,Random Oversampling,Recall,0.74,5,Code reviews dataset
+NB,SMOTE,Recall,0.73,5,Code reviews dataset
+RF,Random Undersampling,Recall,0.71,6,Code reviews dataset
+RF,Random Oversampling,Recall,0.70,6,Code reviews dataset
+RF,SMOTE,Recall,0.69,6,Code reviews dataset
+SVM,Random Undersampling,Recall,0.54,7,Code reviews dataset
+SVM,Random Oversampling,Recall,0.66,7,Code reviews dataset
+SVM,SMOTE,Recall,0.61,7,Code reviews dataset
+BERT,-,Precision,0.95,1,Code reviews dataset
+BERT,Random Undersampling,Precision,0.91,1,Code reviews dataset
+BERT,Random Oversampling,Precision,0.92,1,Code reviews dataset
+CART,Random Undersampling,Precision,0.66,2,Code reviews dataset
+CART,Random Oversampling,Precision,0.69,2,Code reviews dataset
+CART,SMOTE,Precision,0.68,2,Code reviews dataset
+KNN,Random Undersampling,Precision,0.62,3,Code reviews dataset
+KNN,Random Oversampling,Precision,0.61,3,Code reviews dataset
+KNN,SMOTE,Precision,0.61,3,Code reviews dataset
+LR,Random Undersampling,Precision,0.76,4,Code reviews dataset
+LR,Random Oversampling,Precision,0.78,4,Code reviews dataset
+LR,SMOTE,Precision,0.78,4,Code reviews dataset
+NB,Random Undersampling,Precision,0.76,5,Code reviews dataset
+NB,Random Oversampling,Precision,0.76,5,Code reviews dataset
+NB,SMOTE,Precision,0.76,5,Code reviews dataset
+RF,Random Undersampling,Precision,0.81,6,Code reviews dataset
+RF,Random Oversampling,Precision,0.80,6,Code reviews dataset
+RF,SMOTE,Precision,0.81,6,Code reviews dataset
+SVM,Random Undersampling,Precision,0.62,7,Code reviews dataset
+SVM,Random Oversampling,Precision,0.71,7,Code reviews dataset
+SVM,SMOTE,Precision,0.67,7,Code reviews dataset
+BERT,-,MCC,0.89,1,Code reviews dataset
+BERT,Random Undersampling,MCC,0.82,1,Code reviews dataset
+BERT,Random Oversampling,MCC,0.84,1,Code reviews dataset
+CART,Random Undersampling,MCC,0.31,2,Code reviews dataset
+CART,Random Oversampling,MCC,0.37,2,Code reviews dataset
+CART,SMOTE,MCC,0.34,2,Code reviews dataset
+KNN,Random Undersampling,MCC,0.23,3,Code reviews dataset
+KNN,Random Oversampling,MCC,0.22,3,Code reviews dataset
+KNN,SMOTE,MCC,0.22,3,Code reviews dataset
+LR,Random Undersampling,MCC,0.52,4,Code reviews dataset
+LR,Random Oversampling,MCC,0.55,4,Code reviews dataset
+LR,SMOTE,MCC,0.54,4,Code reviews dataset
+NB,Random Undersampling,MCC,0.50,5,Code reviews dataset
+NB,Random Oversampling,MCC,0.50,5,Code reviews dataset
+NB,SMOTE,MCC,0.48,5,Code reviews dataset
+RF,Random Undersampling,MCC,0.51,6,Code reviews dataset
+RF,Random Oversampling,MCC,0.49,6,Code reviews dataset
+RF,SMOTE,MCC,0.48,6,Code reviews dataset
+SVM,Random Undersampling,MCC,0.16,7,Code reviews dataset
+SVM,Random Oversampling,MCC,0.36,7,Code reviews dataset
+SVM,SMOTE,MCC,0.27,7,Code reviews dataset
+BERT,-,nMCC,0.94,1,Code reviews dataset
+BERT,Random Undersampling,nMCC,0.91,1,Code reviews dataset
+BERT,Random Oversampling,nMCC,0.92,1,Code reviews dataset
+CART,Random Undersampling,nMCC,0.66,2,Code reviews dataset
+CART,Random Oversampling,nMCC,0.68,2,Code reviews dataset
+CART,SMOTE,nMCC,0.67,2,Code reviews dataset
+KNN,Random Undersampling,nMCC,0.62,3,Code reviews dataset
+KNN,Random Oversampling,nMCC,0.61,3,Code reviews dataset
+KNN,SMOTE,nMCC,0.61,3,Code reviews dataset
+LR,Random Undersampling,nMCC,0.76,4,Code reviews dataset
+LR,Random Oversampling,nMCC,0.77,4,Code reviews dataset
+LR,SMOTE,nMCC,0.77,4,Code reviews dataset
+NB,Random Undersampling,nMCC,0.75,5,Code reviews dataset
+NB,Random Oversampling,nMCC,0.75,5,Code reviews dataset
+NB,SMOTE,nMCC,0.74,5,Code reviews dataset
+RF,Random Undersampling,nMCC,0.76,6,Code reviews dataset
+RF,Random Oversampling,nMCC,0.75,6,Code reviews dataset
+RF,SMOTE,nMCC,0.74,6,Code reviews dataset
+SVM,Random Undersampling,nMCC,0.58,7,Code reviews dataset
+SVM,Random Oversampling,nMCC,0.68,7,Code reviews dataset
+SVM,SMOTE,nMCC,0.64,7,Code reviews dataset
+BERT,-,F1,0.94,1,Code reviews dataset
+BERT,Random Undersampling,F1,0.91,1,Code reviews dataset
+BERT,Random Oversampling,F1,0.92,1,Code reviews dataset
+CART,Random Undersampling,F1,0.66,2,Code reviews dataset
+CART,Random Oversampling,F1,0.68,2,Code reviews dataset
+CART,SMOTE,F1,0.66,2,Code reviews dataset
+KNN,Random Undersampling,F1,0.61,3,Code reviews dataset
+KNN,Random Oversampling,F1,0.60,3,Code reviews dataset
+KNN,SMOTE,F1,0.61,3,Code reviews dataset
+LR,Random Undersampling,F1,0.76,4,Code reviews dataset
+LR,Random Oversampling,F1,0.77,4,Code reviews dataset
+LR,SMOTE,F1,0.77,4,Code reviews dataset
+NB,Random Undersampling,F1,0.75,5,Code reviews dataset
+NB,Random Oversampling,F1,0.75,5,Code reviews dataset
+NB,SMOTE,F1,0.73,5,Code reviews dataset
+RF,Random Undersampling,F1,0.73,6,Code reviews dataset
+RF,Random Oversampling,F1,0.72,6,Code reviews dataset
+RF,SMOTE,F1,0.71,6,Code reviews dataset
+SVM,Random Undersampling,F1,0.49,7,Code reviews dataset
+SVM,Random Oversampling,F1,0.65,7,Code reviews dataset
+SVM,SMOTE,F1,0.61,7,Code reviews dataset

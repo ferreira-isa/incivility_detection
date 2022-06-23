@@ -1,0 +1,64 @@
+model,class_balancing,metric,class0,class1,order
+BERT,Random Oversampling,Precision,0.82,0.98,1
+BERT,Random Oversampling,Recall,0.86,0.97,1
+BERT,Random Oversampling,F1,0.84,0.97,1
+BERT,Random Undersampling,Precision,0.77,0.97,1
+BERT,Random Undersampling,Recall,0.81,0.96,1
+BERT,Random Undersampling,F1,0.83,0.96,1
+BERT,-,Precision,0.92,0.97,1
+BERT,-,Recall,0.83,0.99,1
+BERT,-,F1,0.86,0.98,1
+CART,Random Oversampling,Precision,0.36,0.91,2
+CART,Random Oversampling,Recall,0.44,0.88,2
+CART,Random Oversampling,F1,0.40,0.89,2
+CART,Random Undersampling,Precision,0.32,0.92,2
+CART,Random Undersampling,Recall,0.53,0.82,2
+CART,Random Undersampling,F1,0.40,0.87,2
+CART,SMOTE,Precision,0.37,0.92,2
+CART,SMOTE,Recall,0.50,0.86,2
+CART,SMOTE,F1,0.42,0.89,2
+KNN,Random Oversampling,Precision,0.28,0.88,3
+KNN,Random Oversampling,Recall,0.25,0.89,3
+KNN,Random Oversampling,F1,0.27,0.89,3
+KNN,Random Undersampling,Precision,0.25,0.89,3
+KNN,Random Undersampling,Recall,0.34,0.84,3
+KNN,Random Undersampling,F1,0.29,0.86,3
+KNN,SMOTE,Precision,0.21,0.89,3
+KNN,SMOTE,Recall,0.41,0.76,3
+KNN,SMOTE,F1,0.28,0.82,3
+LR,Random Oversampling,Precision,0.37,0.94,4
+LR,Random Oversampling,Recall,0.68,0.81,4
+LR,Random Oversampling,F1,0.48,0.87,4
+LR,Random Undersampling,Precision,0.35,0.94,4
+LR,Random Undersampling,Recall,0.70,0.80,4
+LR,Random Undersampling,F1,0.47,0.86,4
+LR,SMOTE,Precision,0.37,0.94,4
+LR,SMOTE,Recall,0.66,0.82,4
+LR,SMOTE,F1,0.47,0.88,4
+NB,Random Oversampling,Precision,0.39,0.87,5
+NB,Random Oversampling,Recall,0.11,0.97,5
+NB,Random Oversampling,F1,0.17,0.92,5
+NB,Random Undersampling,Precision,0.37,0.89,5
+NB,Random Undersampling,Recall,0.32,0.91,5
+NB,Random Undersampling,F1,0.34,0.90,5
+NB,SMOTE,Precision,0.40,0.87,5
+NB,SMOTE,Recall,0.11,0.97,5
+NB,SMOTE,F1,0.17,0.92,5
+RF,Random Oversampling,Precision,0.91,0.87,6
+RF,Random Oversampling,Recall,0.07,1.00,6
+RF,Random Oversampling,F1,0.12,0.93,6
+RF,Random Undersampling,Precision,0.60,0.90,6
+RF,Random Undersampling,Recall,0.31,0.97,6
+RF,Random Undersampling,F1,0.41,0.93,6
+RF,SMOTE,Precision,0.78,0.88,6
+RF,SMOTE,Recall,0.15,0.99,6
+RF,SMOTE,F1,0.25,0.93,6
+SVM,Random Undersampling,Precision,1.00,0.87,7
+SVM,Random Undersampling,Recall,0.03,1.00,7
+SVM,Random Undersampling,F1,0.06,0.93,7
+SVM,Random Oversampling,Precision,0.50,0.87,7
+SVM,Random Oversampling,Recall,0.06,0.99,7
+SVM,Random Oversampling,F1,0.11,0.92,7
+SVM,SMOTE,Precision,0.45,0.87,7
+SVM,SMOTE,Recall,0.07,0.99,7
+SVM,SMOTE,F1,0.12,0.92,7

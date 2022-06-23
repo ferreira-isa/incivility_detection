@@ -1,0 +1,106 @@
+Algorithm,Exp,RQ,Task,Dataset,time_no_class_balancing,time_random_oversampling,time_random_undersampling,time_smote,best_class_balancing,best_eda_parameter,best hyperparameters
+BERT,exp1,RQ1,Technical/Nontechnical,LKML,,,,,,,
+CART,exp1,RQ1,Technical/Nontechnical,LKML,,"3 days, 5:48:59","2 days, 4:16:48","2 days, 0:13:03",,,
+KNN,exp1,RQ1,Technical/Nontechnical,LKML,,"5 days, 19:54:03","4 days, 7:10:29","4 days, 21:40:54",,,
+LR,exp1,RQ1,Technical/Nontechnical,LKML,,13:59:41,12:08:39,11:29:17,,,
+NB,exp1,RQ1,Technical/Nontechnical,LKML,,0:26:43,0:17:56,0:27:20,,,
+RF,exp1,RQ1,Technical/Nontechnical,LKML,,20:47:39,13:46:07,15:47:25,,,
+SVM,exp1,RQ1,Technical/Nontechnical,LKML,,"4 days, 16:23:43","1 day, 0:49:58","5 days, 16:40:25",,,
+,,,,,,,,,,,
+BERT,exp3,RQ1,Technical/Nontechnical,GH,,,,,,,
+CART,exp3,RQ1,Technical/Nontechnical,GH,,"2 days, 20:28:58","2 days, 9:43:13","3 days, 7:14:19",,,
+KNN,exp3,RQ1,Technical/Nontechnical,GH,,"6 days, 12:49:36","4 days, 22:45:31","6 days, 18:09:08",,,
+LR,exp3,RQ1,Technical/Nontechnical,GH,,5:56:21,5:26:42,7:02:37,,,
+NB,exp3,RQ1,Technical/Nontechnical,GH,,13:13:23,13:44:17,13:36:36,,,
+RF,exp3,RQ1,Technical/Nontechnical,GH,,18:44:06,13:20:44,19:40:53,,,
+SVM,exp3,RQ1,Technical/Nontechnical,GH,,"5 days, 14:57:17","3 days, 21:06:29","8 days, 23:46:45",,,
+,,,,,,,,,,,
+BERT,exp1,RQ1,Civil/Uncivil,LKML,,,,,,,
+CART,exp1,RQ1,Civil/Uncivil,LKML,,7:01:50,6:51:54,7:24:03,,,
+KNN,exp1,RQ1,Civil/Uncivil,LKML,,16:23:30,14:58:03,17:00:18,,,
+LR,exp1,RQ1,Civil/Uncivil,LKML,,0:37:32,0:39:20,0:42:33,,,
+NB,exp1,RQ1,Civil/Uncivil,LKML,,1:29:29,1:21:00,1:32:20,,,
+RF,exp1,RQ1,Civil/Uncivil,LKML,,1:47:04,1:45:37,1:51:11,,,
+SVM,exp1,RQ1,Civil/Uncivil,LKML,,"4 days, 20:20:12","1 day, 10:59:14","2 days, 23:05:36",,,
+,,,,,,,,,,,
+BERT,exp3,RQ1,Civil/Uncivil,GH,,,,,,,
+CART,exp3,RQ1,Civil/Uncivil,GH,,21:16:30,20:20:47,"1 day, 1:09:56",,,
+KNN,exp3,RQ1,Civil/Uncivil,GH,,"2 days, 8:38:11","2 days, 2:18:42","2 days, 14:55:54",,,
+LR,exp3,RQ1,Civil/Uncivil,GH,,1:50:50,1:49:07,2:03:16,,,
+NB,exp3,RQ1,Civil/Uncivil,GH,,4:07:14,4:08:52,4:47:53,,,
+RF,exp3,RQ1,Civil/Uncivil,GH,,6:13:18,6:09:01,6:26:11,,,
+SVM,exp3,RQ1,Civil/Uncivil,GH,,3:14:16,1:28:28,3:08:01,,,
+,,,,,,,,,,,
+BERT,exp2,RQ2,Technical/Nontechnical,LKML,,,,,Random Undersampling,"(0.05, 0.1, 0.05, 0.05, 8)","learning_rate=6.214868858400708e-05,
+per_device_train_batch_size=8,
+num_train_epochs=9,
+weight_decay=0.16876138510420885,
+warmup_steps=250"
+,,,,,,,,,,,
+BERT,exp2,RQ2,Technical/Nontechnical,GH,,,,,No class balancing,"(0.05, 0.05, 0.05, 0.05, 4)","learning_rate=1.0759476376007065e-05,
+per_device_train_batch_size=8*,
+num_train_epochs=4,
+weight_decay=0.0220088627498898,
+warmup_steps=174,
+
+* taking batch size 16 ran out of memory"
+,,,,,,,,,,,
+BERT,exp2,RQ2,Civil/Uncivil,LKML,,,,,No Class Balancing,"(0.05, 0.05, 0.05, 0.05, 8)","learning_rate=2.4618952130398965e-05,
+per_device_train_batch_size=4, 
+num_train_epochs=2,
+weight_decay=0.0131168597872807,
+warmup_steps=407,"
+,,,,,,,,,,,
+BERT,exp2,RQ2,Civil/Uncivil,GH,,,,,Random undersampling,"(0.2, 0.05, 0.05, 0.05, 16)","learning_rate=1.4578386061584304e-05,
+per_device_train_batch_size=4,
+num_train_epochs=3,
+weight_decay=0.05984480297859859,
+warmup_steps=500"
+,,,,,,,,,,,
+BERT,exp4,RQ3,Technical/Nontechnical,1_train_lkml_test_gh,,,,,Random Undersampling,"(0.05, 0.1, 0.05, 0.05, 8)","learning_rate=6.214868858400708e-05,
+per_device_train_batch_size=8,
+num_train_epochs=9,
+weight_decay=0.16876138510420885,
+warmup_steps=250"
+CART,exp4,RQ3,Technical/Nontechnical,1_train_lkml_test_gh,,2:48:03,,,Random Oversampling,"{'alpha_sr': 0.2, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 8}","{'clf__max_depth': 50, 'clf__min_samples_leaf': 2, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+KNN,exp4,RQ3,Technical/Nontechnical,1_train_lkml_test_gh,,,0:17:14,,Random Undersampling,"{'alpha_sr': 0.2, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{'clf__leaf_size': 40, 'clf__n_neighbors': 1, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+LR,exp4,RQ3,Technical/Nontechnical,1_train_lkml_test_gh,,0:36:00,,,Random Oversampling,"{'alpha_sr': 0.2, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{'clf__C': 10, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"
+NB,exp4,RQ3,Technical/Nontechnical,1_train_lkml_test_gh,,,,,Random Undersampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{'alpha': 1.0, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"
+RF,exp4,RQ3,Technical/Nontechnical,1_train_lkml_test_gh,,,0:22:02,,Random Undersampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{'clf__min_samples_split': 2, 'clf__n_estimators': 100, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+SVM,exp4,RQ3,Technical/Nontechnical,1_train_lkml_test_gh,,,,0:49:02,SMOTE,"{'alpha_sr': 0.05, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{'clf__C': 0.5, 'clf__gamma': 0.5, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"
+,,,,,,,,,,,
+BERT,exp4,RQ3,Technical/Nontechnical,2_train_gh_test_lkml,,,,,Random undersampling,"(0.05, 0.1, 0.05, 0.05, 8)","learning_rate=6.214868858400708e-05,
+per_device_train_batch_size=8,
+num_train_epochs=9,
+weight_decay=0.16876138510420885,
+warmup_steps=250"
+CART,exp4,RQ3,Technical/Nontechnical,2_train_gh_test_lkml,,,,0:33:28,SMOTE,"{'alpha_sr': 0.05, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{'clf__max_depth': 50, 'clf__min_samples_leaf': 1, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"
+KNN,exp4,RQ3,Technical/Nontechnical,2_train_gh_test_lkml,,,5:26:33,,Random Undersampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{'clf__leaf_size': 30, 'clf__n_neighbors': 1, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"
+LR,exp4,RQ3,Technical/Nontechnical,2_train_gh_test_lkml,,0:21:04,,,Random Oversampling,"{'alpha_sr': 0.2, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{‘clf__C': 1, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"
+NB,exp4,RQ3,Technical/Nontechnical,2_train_gh_test_lkml,,,0:23:43,,Random Undersampling,"{'alpha_sr': 0.2, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{'clf__alpha': 0.0, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+RF,exp4,RQ3,Technical/Nontechnical,2_train_gh_test_lkml,,,0:39:25,,Random Undersamping,"{'alpha_sr': 0.05, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{'clf__min_samples_split': 2, 'clf__n_estimators': 100, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+SVM,exp4,RQ3,Technical/Nontechnical,2_train_gh_test_lkml,,,,,Random Undersampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 4}","{'clf__C': 2, 'clf__gamma': 1, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"
+,,,,,,,,,,,
+BERT,exp4,RQ3,Civil/Uncivil,1_train_lkml_test_gh,,,,,Random undersampling,"(0.2, 0.05, 0.05, 0.05, 8)","learning_rate=2.5497706126829216e-05,
+per_device_train_batch_size=4,
+num_train_epochs=10,
+weight_decay=0.10822922685686845,
+warmup_steps=8"
+CART,exp4,RQ3,Civil/Uncivil,1_train_lkml_test_gh,,0:00:27,,,Random Oversampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 8}","{'clf__max_depth': 30, 'clf__min_samples_leaf': 1, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"
+KNN,exp4,RQ3,Civil/Uncivil,1_train_lkml_test_gh,,,0:00:31,,Random Undersampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 8}","{'clf__leaf_size': 30, 'clf__n_neighbors': 2, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+LR,exp4,RQ3,Civil/Uncivil,1_train_lkml_test_gh,,0:00:37,,,Random Oversampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 8}","{'clf__C': 10, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+NB,exp4,RQ3,Civil/Uncivil,1_train_lkml_test_gh,,,0:00:29,,Random Undersampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 8}","{'clf__alpha': 0.1, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+RF,exp4,RQ3,Civil/Uncivil,1_train_lkml_test_gh,,,0:00:36,,Random Undersampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 8}","{'clf__min_samples_split': 2, 'clf__n_estimators': 50, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+SVM,exp4,RQ3,Civil/Uncivil,1_train_lkml_test_gh,,0:03:21,,,Random Oversampling,"{'alpha_sr': 0.2, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 16}","{'clf__C': 8192, 'clf__gamma': 0.0001220703125, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+,,,,,,,,,,,
+BERT,exp4,RQ3,Civil/Uncivil,2_train_gh_test_lkml,,,,,Random undersampling,"(0.2, 0.05, 0.05, 0.05, 16)","learning_rate=1.4578386061584304e-05,
+per_device_train_batch_size=4,
+num_train_epochs=3,
+weight_decay=0.05984480297859859,
+warmup_steps=500,"
+CART,exp4,RQ3,Civil/Uncivil,2_train_gh_test_lkml,,,,,Random Undersampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 8}","{'clf__max_depth': 50, 'clf__min_samples_leaf': 1, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"
+KNN,exp4,RQ3,Civil/Uncivil,2_train_gh_test_lkml,,,,,Random Undersampling,"{'alpha_sr': 0.2, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 16}","{'clf__leaf_size': 10, 'clf__n_neighbors': 1, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"
+LR,exp4,RQ3,Civil/Uncivil,2_train_gh_test_lkml,,,,,Random Oversampling,"{'alpha_sr': 0.05, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 16}","{'clf__C': 1, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+NB,exp4,RQ3,Civil/Uncivil,2_train_gh_test_lkml,,,,,SMOTE,"{'alpha_sr': 0.2, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 8}","{'clf__alpha': 0.1, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+RF,exp4,RQ3,Civil/Uncivil,2_train_gh_test_lkml,,,,,Random Undersampling,"{'alpha_sr': 0.2, 'alpha_ri': 0.05, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 16}","{'clf__min_samples_split': 2, 'clf__n_estimators': 100, 'features__text_vectorizer__vect__ngram_range': (1, 2)}"
+SVM,exp4,RQ3,Civil/Uncivil,2_train_gh_test_lkml,,,,,Random Oversampling,"{'alpha_sr': 0.2, 'alpha_ri': 0.1, 'alpha_rs': 0.05, 'alpha_rd': 0.05, 'num_aug': 8}","{'clf__C': 0.5, 'clf__gamma': 0.5, 'features__text_vectorizer__vect__ngram_range': (1, 1)}"

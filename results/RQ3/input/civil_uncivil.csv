@@ -1,0 +1,71 @@
+dataset,model,class_balancing,metric,class0,class1,average,order,data
+civil_uncivil,BERT,Random undersampling,F1,0.80,0.46,0.63,1,Train on code reviews and test on issues
+civil_uncivil,CART,Random Oversampling,F1,0.71,0.35,0.53,2,Train on code reviews and test on issues
+civil_uncivil,KNN,Random Undersampling,F1,0.73,0.33,0.53,3,Train on code reviews and test on issues
+civil_uncivil,LR,Random Oversampling,F1,0.75,0.37,0.56,4,Train on code reviews and test on issues
+civil_uncivil,NB,Random Undersampling,F1,0.72,0.48,0.60,5,Train on code reviews and test on issues
+civil_uncivil,RF,Random Undersampling,F1,0.78,0.35,0.56,6,Train on code reviews and test on issues
+civil_uncivil,SVM,Random Oversampling,F1,0.74,0.40,0.57,7,Train on code reviews and test on issues
+civil_uncivil,BERT,Random undersampling,F1,0.80,0.46,0.63,1,Train on issues and test on code reviews
+civil_uncivil,CART,Random Undersampling,F1,0.71,0.37,0.54,2,Train on issues and test on code reviews
+civil_uncivil,KNN,Random Undersampling,F1,0.75,0.26,0.51,3,Train on issues and test on code reviews
+civil_uncivil,LR,Random Oversampling,F1,0.54,0.44,0.49,4,Train on issues and test on code reviews
+civil_uncivil,NB,SMOTE,F1,0.80,0.31,0.56,5,Train on issues and test on code reviews
+civil_uncivil,RF,Random Undersampling,F1,0.86,0.37,0.61,6,Train on issues and test on code reviews
+civil_uncivil,SVM,Random Oversampling,F1,0.84,0.10,0.47,7,Train on issues and test on code reviews
+civil_uncivil,BERT,Random undersampling,MCC,,,0.27,1,Train on code reviews and test on issues
+civil_uncivil,CART,Random Oversampling,MCC,,,0.07,2,Train on code reviews and test on issues
+civil_uncivil,KNN,Random Undersampling,MCC,,,0.06,3,Train on code reviews and test on issues
+civil_uncivil,LR,Random Oversampling,MCC,,,0.12,4,Train on code reviews and test on issues
+civil_uncivil,NB,Random Undersampling,MCC,,,0.22,5,Train on code reviews and test on issues
+civil_uncivil,RF,Random Undersampling,MCC,,,0.14,6,Train on code reviews and test on issues
+civil_uncivil,SVM,Random Oversampling,MCC,,,0.14,7,Train on code reviews and test on issues
+civil_uncivil,BERT,Random undersampling,nMCC,,,0.63,1,Train on code reviews and test on issues
+civil_uncivil,CART,Random Oversampling,nMCC,,,0.53,2,Train on code reviews and test on issues
+civil_uncivil,KNN,Random Undersampling,nMCC,,,0.53,3,Train on code reviews and test on issues
+civil_uncivil,LR,Random Oversampling,nMCC,,,0.56,4,Train on code reviews and test on issues
+civil_uncivil,NB,Random Undersampling,nMCC,,,0.61,5,Train on code reviews and test on issues
+civil_uncivil,RF,Random Undersampling,nMCC,,,0.57,6,Train on code reviews and test on issues
+civil_uncivil,SVM,Random Oversampling,nMCC,,,0.57,7,Train on code reviews and test on issues
+civil_uncivil,BERT,Random undersampling,MCC,,,0.27,1,Train on issues and test on code reviews
+civil_uncivil,CART,Random Undersampling,MCC,,,0.13,2,Train on issues and test on code reviews
+civil_uncivil,KNN,Random Undersampling,MCC,,,0.01,3,Train on issues and test on code reviews
+civil_uncivil,LR,Random Oversampling,MCC,,,0.21,4,Train on issues and test on code reviews
+civil_uncivil,NB,SMOTE,MCC,,,0.12,5,Train on issues and test on code reviews
+civil_uncivil,RF,Random Undersampling,MCC,,,0.25,6,Train on issues and test on code reviews
+civil_uncivil,SVM,Random Oversampling,MCC,,,0.0,7,Train on issues and test on code reviews
+civil_uncivil,BERT,Random undersampling,nMCC,,,0.63,1,Train on issues and test on code reviews
+civil_uncivil,CART,Random Undersampling,nMCC,,,0.56,2,Train on issues and test on code reviews
+civil_uncivil,KNN,Random Undersampling,nMCC,,,0.51,3,Train on issues and test on code reviews
+civil_uncivil,LR,Random Oversampling,nMCC,,,0.61,4,Train on issues and test on code reviews
+civil_uncivil,NB,SMOTE,nMCC,,,0.56,5,Train on issues and test on code reviews
+civil_uncivil,RF,Random Undersampling,nMCC,,,0.62,6,Train on issues and test on code reviews
+civil_uncivil,SVM,Random Oversampling,nMCC,,,0.5,7,Train on issues and test on code reviews
+civil_uncivil,BERT,Random undersampling,Precision,0.77,0.53,0.65,1,Train on code reviews and test on issues
+civil_uncivil,CART,Random Oversampling,Precision,0.72,0.35,0.53,2,Train on code reviews and test on issues
+civil_uncivil,KNN,Random Undersampling,Precision,0.71,0.35,0.53,3,Train on code reviews and test on issues
+civil_uncivil,LR,Random Oversampling,Precision,0.73,0.40,0.57,4,Train on code reviews and test on issues
+civil_uncivil,NB,Random Undersampling,Precision,0.78,0.43,0.60,5,Train on code reviews and test on issues
+civil_uncivil,RF,Random Undersampling,Precision,0.73,0.43,0.58,6,Train on code reviews and test on issues
+civil_uncivil,SVM,Random Oversampling,Precision,0.74,0.41,0.57,7,Train on code reviews and test on issues
+civil_uncivil,BERT,Random undersampling,Precision,0.77,0.53,0.65,1,Train on issues and test on code reviews
+civil_uncivil,CART,Random Undersampling,Precision,0.81,0.30,0.56,2,Train on issues and test on code reviews
+civil_uncivil,KNN,Random Undersampling,Precision,0.77,0.24,0.51,3,Train on issues and test on code reviews
+civil_uncivil,LR,Random Oversampling,Precision,0.88,0.31,0.60,4,Train on issues and test on code reviews
+civil_uncivil,NB,SMOTE,Precision,0.80,0.32,0.56,5,Train on issues and test on code reviews
+civil_uncivil,RF,Random Undersampling,Precision,0.81,0.48,0.65,6,Train on issues and test on code reviews
+civil_uncivil,SVM,Random Oversampling,Precision,0.77,0.20,0.48,7,Train on issues and test on code reviews
+civil_uncivil,BERT,Random undersampling,Recall,0.84,0.41,0.62,1,Train on code reviews and test on issues
+civil_uncivil,CART,Random Oversampling,Recall,0.71,0.36,0.53,2,Train on code reviews and test on issues
+civil_uncivil,KNN,Random Undersampling,Recall,0.75,0.32,0.53,3,Train on code reviews and test on issues
+civil_uncivil,LR,Random Oversampling,Recall,0.77,0.35,0.56,4,Train on code reviews and test on issues
+civil_uncivil,NB,Random Undersampling,Recall,0.68,0.56,0.62,5,Train on code reviews and test on issues
+civil_uncivil,RF,Random Undersampling,Recall,0.83,0.29,0.56,6,Train on code reviews and test on issues
+civil_uncivil,SVM,Random Oversampling,Recall,0.75,0.39,0.57,7,Train on code reviews and test on issues
+civil_uncivil,BERT,Random undersampling,Recall,0.84,0.41,0.62,1,Train on issues and test on code reviews
+civil_uncivil,CART,Random Undersampling,Recall,0.64,0.51,0.57,2,Train on issues and test on code reviews
+civil_uncivil,KNN,Random Undersampling,Recall,0.73,0.29,0.51,3,Train on issues and test on code reviews
+civil_uncivil,LR,Random Oversampling,Recall,0.42,0.82,0.62,4,Train on issues and test on code reviews
+civil_uncivil,NB,SMOTE,Recall,0.81,0.30,0.56,5,Train on issues and test on code reviews
+civil_uncivil,RF,Random Undersampling,Recall,0.90,0.31,0.61,6,Train on issues and test on code reviews
+civil_uncivil,SVM,Random Oversampling,Recall,0.92,0.06,0.49,7,Train on issues and test on code reviews

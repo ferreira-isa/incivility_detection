@@ -1,0 +1,106 @@
+model,class_balancing,metric,score,order
+BERT,-,F1,0.92,1
+BERT,Random Oversampling,F1,0.91,1
+BERT,Random Undersampling,F1,0.87,1
+CART,Random Oversampling,F1,0.64,2
+CART,Random Undersampling,F1,0.63,2
+CART,SMOTE,F1,0.66,2
+KNN,Random Oversampling,F1,0.58,3
+KNN,Random Undersampling,F1,0.58,3
+KNN,SMOTE,F1,0.55,3
+LR,Random Oversampling,F1,0.67,4
+LR,Random Undersampling,F1,0.67,4
+LR,SMOTE,F1,0.67,4
+NB,Random Oversampling,F1,0.54,5
+NB,Random Undersampling,F1,0.62,5
+NB,SMOTE,F1,0.55,5
+RF,Random Oversampling,F1,0.53,6
+RF,Random Undersampling,F1,0.67,6
+RF,SMOTE,F1,0.59,6
+SVM,Random Oversampling,F1,0.52,7
+SVM,Random Undersampling,F1,0.49,7
+SVM,SMOTE,F1,0.52,7
+BERT,-,MCC,0.85,1
+BERT,Random Oversampling,MCC,0.81,1
+BERT,Random Undersampling,MCC,0.75,1
+CART,Random Oversampling,MCC,0.29,2
+CART,Random Undersampling,MCC,0.29,2
+CART,SMOTE,MCC,0.32,2
+KNN,Random Oversampling,MCC,0.15,3
+KNN,Random Undersampling,MCC,0.16,3
+KNN,SMOTE,MCC,0.13,3
+LR,Random Oversampling,MCC,0.39,4
+LR,Random Undersampling,MCC,0.38,4
+LR,SMOTE,MCC,0.38,4
+NB,Random Oversampling,MCC,0.15,5
+NB,Random Undersampling,MCC,0.25,5
+NB,SMOTE,MCC,0.15,5
+RF,Random Oversampling,MCC,0.22,6
+RF,Random Undersampling,MCC,0.37,6
+RF,SMOTE,MCC,0.30,6
+SVM,Random Oversampling,MCC,0.14,7
+SVM,Random Undersampling,MCC,0.16,7
+SVM,SMOTE,MCC,0.14,7
+BERT,-,nMCC,0.92,1
+BERT,Random Oversampling,nMCC,0.91,1
+BERT,Random Undersampling,nMCC,0.88,1
+CART,Random Oversampling,nMCC,0.65,2
+CART,Random Undersampling,nMCC,0.64,2
+CART,SMOTE,nMCC,0.66,2
+KNN,Random Oversampling,nMCC,0.58,3
+KNN,Random Undersampling,nMCC,0.58,3
+KNN,SMOTE,nMCC,0.57,3
+LR,Random Oversampling,nMCC,0.69,4
+LR,Random Undersampling,nMCC,0.69,4
+LR,SMOTE,nMCC,0.69,4
+NB,Random Oversampling,nMCC,0.57,5
+NB,Random Undersampling,nMCC,0.62,5
+NB,SMOTE,nMCC,0.57,5
+RF,Random Oversampling,nMCC,0.61,6
+RF,Random Undersampling,nMCC,0.69,6
+RF,SMOTE,nMCC,0.65,6
+SVM,Random Oversampling,nMCC,0.57,7
+SVM,Random Undersampling,nMCC,0.58,7
+SVM,SMOTE,nMCC,0.57,7
+BERT,-,Precision,0.95,1
+BERT,Random Oversampling,Precision,0.90,1
+BERT,Random Undersampling,Precision,0.87,1
+CART,Random Oversampling,Precision,0.63,2
+CART,Random Undersampling,Precision,0.62,2
+CART,SMOTE,Precision,0.64,2
+KNN,Random Oversampling,Precision,0.58,3
+KNN,Random Undersampling,Precision,0.57,3
+KNN,SMOTE,Precision,0.55,3
+LR,Random Oversampling,Precision,0.65,4
+LR,Random Undersampling,Precision,0.65,4
+LR,SMOTE,Precision,0.65,4
+NB,Random Oversampling,Precision,0.63,5
+NB,Random Undersampling,Precision,0.63,5
+NB,SMOTE,Precision,0.63,5
+RF,Random Oversampling,Precision,0.89,6
+RF,Random Undersampling,Precision,0.75,6
+RF,SMOTE,Precision,0.83,6
+SVM,Random Oversampling,Precision,0.68,7
+SVM,Random Undersampling,Precision,0.93,7
+SVM,SMOTE,Precision,0.66,7
+BERT,-,Recall,0.91,1
+BERT,Random Oversampling,Recall,0.91,1
+BERT,Random Undersampling,Recall,0.88,1
+CART,Random Oversampling,Recall,0.66,2
+CART,Random Undersampling,Recall,0.68,2
+CART,SMOTE,Recall,0.68,2
+KNN,Random Oversampling,Recall,0.57,3
+KNN,Random Undersampling,Recall,0.59,3
+KNN,SMOTE,Recall,0.58,3
+LR,Random Oversampling,Recall,0.74,4
+LR,Random Undersampling,Recall,0.75,4
+LR,SMOTE,Recall,0.74,4
+NB,Random Oversampling,Recall,0.54,5
+NB,Random Undersampling,Recall,0.62,5
+NB,SMOTE,Recall,0.54,5
+RF,Random Oversampling,Recall,0.53,6
+RF,Random Undersampling,Recall,0.64,6
+RF,SMOTE,Recall,0.57,6
+SVM,Random Oversampling,Recall,0.53,7
+SVM,Random Undersampling,Recall,0.52,7
+SVM,SMOTE,Recall,0.53,7

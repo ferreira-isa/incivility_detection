@@ -1,0 +1,73 @@
+dataset,data,quotation_tbdf,label_correct,model,correctly_predicted?,count,total,%,order
+rq2_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,BERT,TRUE,22,22,100.00%,1
+rq2_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,BERT,FALSE,0,22,0.00%,1
+rq2_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,BERT,TRUE,390,401,97.26%,1
+rq2_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,BERT,FALSE,11,401,2.74%,1
+rq2_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,BERT,TRUE,11,13,84.62%,1
+rq2_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,BERT,FALSE,2,13,15.38%,1
+rq2_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,BERT,TRUE,56,58,96.55%,1
+rq2_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,BERT,FALSE,2,58,3.45%,1
+rq2_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,BERT,TRUE,6,6,100.00%,2
+rq2_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,BERT,FALSE,0,6,0.00%,2
+rq2_gh_civil_uncivil,Issues dataset,Commanding,Civil,BERT,TRUE,17,20,85.00%,2
+rq2_gh_civil_uncivil,Issues dataset,Commanding,Civil,BERT,FALSE,3,20,15.00%,2
+rq2_gh_civil_uncivil,Issues dataset,Confusion,Civil,BERT,TRUE,11,12,91.67%,3
+rq2_gh_civil_uncivil,Issues dataset,Confusion,Civil,BERT,FALSE,1,12,8.33%,3
+rq2_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,BERT,TRUE,13,14,92.86%,4
+rq2_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,BERT,FALSE,1,14,7.14%,4
+rq2_gh_civil_uncivil,Issues dataset,Considerateness,Civil,BERT,TRUE,89,101,88.12%,4
+rq2_gh_civil_uncivil,Issues dataset,Considerateness,Civil,BERT,FALSE,12,101,11.88%,4
+rq2_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,BERT,TRUE,12,17,70.59%,5
+rq2_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,BERT,FALSE,5,17,29.41%,5
+rq2_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,BERT,TRUE,79,91,86.81%,6
+rq2_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,BERT,FALSE,12,91,13.19%,6
+rq2_gh_civil_uncivil,Issues dataset,Expectation,Civil,BERT,TRUE,34,39,87.18%,7
+rq2_gh_civil_uncivil,Issues dataset,Expectation,Civil,BERT,FALSE,5,39,12.82%,7
+rq2_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,BERT,TRUE,1,1,100.00%,8
+rq2_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,BERT,FALSE,0,1,0.00%,8
+rq2_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,BERT,TRUE,18,20,90.00%,8
+rq2_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,BERT,FALSE,2,20,10.00%,8
+rq2_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,BERT,TRUE,1,1,100.00%,9
+rq2_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,BERT,FALSE,0,1,0.00%,9
+rq2_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,BERT,TRUE,3,3,100.00%,9
+rq2_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,BERT,FALSE,0,3,0.00%,9
+rq2_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,BERT,TRUE,16,17,94.12%,10
+rq2_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,BERT,FALSE,1,17,5.88%,10
+rq2_gh_civil_uncivil,Issues dataset,Humility,Civil,BERT,TRUE,28,33,84.85%,10
+rq2_gh_civil_uncivil,Issues dataset,Humility,Civil,BERT,FALSE,5,33,15.15%,10
+rq2_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,BERT,TRUE,13,14,92.86%,2
+rq2_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,BERT,FALSE,1,14,7.14%,2
+rq2_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,BERT,TRUE,74,74,100.00%,2
+rq2_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,BERT,FALSE,0,74,0.00%,2
+rq2_gh_civil_uncivil,Issues dataset,Irony,Uncivil,BERT,TRUE,74,75,98.67%,3
+rq2_gh_civil_uncivil,Issues dataset,Irony,Uncivil,BERT,FALSE,1,75,1.33%,3
+rq2_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,BERT,TRUE,8,9,88.89%,4
+rq2_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,BERT,FALSE,1,9,11.11%,4
+rq2_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,BERT,TRUE,221,228,96.93%,4
+rq2_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,BERT,FALSE,7,228,3.07%,4
+rq2_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,BERT,TRUE,41,45,91.11%,5
+rq2_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,BERT,FALSE,4,45,8.89%,5
+rq2_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,BERT,TRUE,237,244,97.13%,5
+rq2_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,BERT,FALSE,7,244,2.87%,5
+rq2_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,BERT,TRUE,1,1,100.00%,11
+rq2_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,BERT,FALSE,0,1,0.00%,11
+rq2_gh_civil_uncivil,Issues dataset,Oppression,Civil,BERT,TRUE,9,10,90.00%,11
+rq2_gh_civil_uncivil,Issues dataset,Oppression,Civil,BERT,FALSE,1,10,10.00%,11
+rq2_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,BERT,TRUE,1,1,100.00%,12
+rq2_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,BERT,FALSE,0,1,0.00%,12
+rq2_gh_civil_uncivil,Issues dataset,Sadness,Civil,BERT,TRUE,19,28,67.86%,12
+rq2_gh_civil_uncivil,Issues dataset,Sadness,Civil,BERT,FALSE,9,28,32.14%,12
+rq2_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,BERT,TRUE,8,9,88.89%,13
+rq2_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,BERT,FALSE,1,9,11.11%,13
+rq2_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,BERT,TRUE,19,23,82.61%,13
+rq2_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,BERT,FALSE,4,23,17.39%,13
+rq2_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,BERT,TRUE,7,7,100.00%,6
+rq2_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,BERT,FALSE,0,7,0.00%,6
+rq2_gh_civil_uncivil,Issues dataset,Threat,Uncivil,BERT,TRUE,27,27,100.00%,6
+rq2_gh_civil_uncivil,Issues dataset,Threat,Uncivil,BERT,FALSE,0,27,0.00%,6
+rq2_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,BERT,TRUE,3,4,75.00%,7
+rq2_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,BERT,FALSE,1,4,25.00%,7
+rq2_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,BERT,TRUE,25,25,100.00%,7
+rq2_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,BERT,FALSE,0,25,0.00%,7
+rq2_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,BERT,TRUE,6,7,85.71%,3
+rq2_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,BERT,FALSE,1,7,14.29%,3

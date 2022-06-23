@@ -1,0 +1,577 @@
+dataset,data,quotation_tbdf,label_correct,model,correctly_predicted?,count,total,%,order
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,CART,TRUE,16,19,84.21%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,CART,FALSE,3,19,15.79%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,KNN,TRUE,9,19,47.37%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,KNN,FALSE,10,19,52.63%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,LR,TRUE,15,19,78.95%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,LR,FALSE,4,19,21.05%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,NB,TRUE,17,19,89.47%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,NB,FALSE,2,19,10.53%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,NB,TRUE,17,19,89.47%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,NB,FALSE,2,19,10.53%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,RF,TRUE,13,19,68.42%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,RF,FALSE,6,19,31.58%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,SVM,TRUE,14,19,73.68%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,SVM,FALSE,5,19,26.32%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,BERT,TRUE,57,58,98.28%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,BERT,FALSE,1,58,1.72%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,CART,TRUE,27,58,46.55%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,CART,FALSE,30,58,51.72%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,KNN,TRUE,22,58,37.93%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,KNN,FALSE,36,58,62.07%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,LR,TRUE,45,58,77.59%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,LR,FALSE,13,58,22.41%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,NB,TRUE,39,58,67.24%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,NB,FALSE,19,58,32.76%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,RF,TRUE,37,58,63.79%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,RF,FALSE,21,58,36.21%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,SVM,TRUE,8,58,13.79%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,SVM,FALSE,50,58,86.21%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,CART,TRUE,70,90,77.78%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,CART,FALSE,20,90,22.22%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,KNN,TRUE,71,90,78.89%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,KNN,FALSE,19,90,21.11%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,LR,TRUE,74,90,82.22%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,LR,FALSE,16,90,17.78%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,NB,TRUE,79,90,87.78%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,NB,FALSE,11,90,12.22%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,NB,TRUE,79,90,87.78%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,NB,FALSE,11,90,12.22%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,RF,TRUE,84,90,93.33%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,RF,FALSE,6,90,6.67%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,SVM,TRUE,82,90,91.11%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,SVM,FALSE,8,90,8.89%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,CART,TRUE,195,283,68.90%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,CART,FALSE,88,283,31.10%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,KNN,TRUE,218,283,77.03%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,KNN,FALSE,65,283,22.97%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,LR,TRUE,204,283,72.08%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,LR,FALSE,79,283,27.92%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,NB,TRUE,243,283,85.87%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,NB,FALSE,40,283,14.13%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,NB,TRUE,243,283,85.87%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,NB,FALSE,40,283,14.13%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,RF,TRUE,254,283,89.75%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,RF,FALSE,29,283,10.25%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,SVM,TRUE,257,283,90.81%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,SVM,FALSE,26,283,9.19%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,CART,TRUE,3,9,33.33%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,CART,FALSE,6,9,66.67%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,KNN,TRUE,1,9,11.11%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,KNN,FALSE,8,9,88.89%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,LR,TRUE,5,9,55.56%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,LR,FALSE,4,9,44.44%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,NB,TRUE,4,9,44.44%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,NB,FALSE,5,9,55.56%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,NB,TRUE,4,9,44.44%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,NB,FALSE,5,9,55.56%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,RF,TRUE,2,9,22.22%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,RF,FALSE,7,9,77.78%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,SVM,TRUE,5,9,55.56%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,SVM,FALSE,4,9,44.44%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,CART,TRUE,22,47,46.81%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,CART,FALSE,25,47,53.19%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,KNN,TRUE,19,47,40.43%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,KNN,FALSE,28,47,59.57%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,LR,TRUE,21,47,44.68%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,LR,FALSE,26,47,55.32%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,NB,TRUE,12,47,25.53%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,NB,FALSE,35,47,74.47%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,NB,TRUE,12,47,25.53%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,NB,FALSE,35,47,74.47%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,RF,TRUE,7,47,14.89%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,RF,FALSE,40,47,85.11%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,SVM,TRUE,12,47,25.53%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,SVM,FALSE,35,47,74.47%,2
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,BERT,TRUE,10,12,25.00%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,BERT,FALSE,2,12,5.00%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,CART,TRUE,2,12,5.00%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,CART,FALSE,10,12,25.00%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,KNN,TRUE,3,12,7.50%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,KNN,FALSE,9,12,22.50%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,LR,TRUE,4,12,10.00%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,LR,FALSE,8,12,20.00%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,NB,TRUE,5,12,12.50%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,NB,FALSE,7,12,17.50%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,RF,TRUE,3,12,7.50%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,RF,FALSE,9,12,22.50%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,SVM,TRUE,1,12,2.50%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,SVM,FALSE,11,12,27.50%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,CART,TRUE,4,18,22.22%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,CART,FALSE,14,18,77.78%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,KNN,TRUE,8,18,44.44%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,KNN,FALSE,10,18,55.56%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,LR,TRUE,7,18,38.89%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,LR,FALSE,11,18,61.11%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,NB,TRUE,7,18,38.89%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,NB,FALSE,11,18,61.11%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,NB,TRUE,7,18,38.89%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,NB,FALSE,11,18,61.11%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,RF,TRUE,5,18,27.78%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,RF,FALSE,13,18,72.22%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,SVM,TRUE,8,18,44.44%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,SVM,FALSE,10,18,55.56%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,CART,TRUE,30,60,50.00%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,CART,FALSE,30,60,50.00%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,KNN,TRUE,25,60,41.67%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,KNN,FALSE,35,60,58.33%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,LR,TRUE,40,60,66.67%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,LR,FALSE,20,60,33.33%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,NB,TRUE,23,60,38.33%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,NB,FALSE,37,60,61.67%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,NB,TRUE,23,60,38.33%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,NB,FALSE,37,60,61.67%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,RF,TRUE,20,60,33.33%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,RF,FALSE,40,60,66.67%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,SVM,TRUE,13,60,21.67%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,SVM,FALSE,47,60,78.33%,4
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,BERT,TRUE,14,17,82.35%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,BERT,FALSE,3,17,17.65%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,CART,TRUE,3,17,17.65%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,CART,FALSE,14,17,82.35%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,KNN,TRUE,6,17,35.29%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,KNN,FALSE,11,17,64.71%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,LR,TRUE,8,17,47.06%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,LR,FALSE,9,17,52.94%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,NB,TRUE,7,17,41.18%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,NB,FALSE,10,17,58.82%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,RF,TRUE,9,17,52.94%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,RF,FALSE,8,17,47.06%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,SVM,TRUE,3,17,17.65%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,SVM,FALSE,14,17,82.35%,5
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,CART,TRUE,24,66,36.36%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,CART,FALSE,42,66,63.64%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,KNN,TRUE,18,66,27.27%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,KNN,FALSE,48,66,72.73%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,LR,TRUE,40,66,60.61%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,LR,FALSE,26,66,39.39%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,NB,TRUE,16,66,24.24%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,NB,FALSE,50,66,75.76%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,NB,TRUE,16,66,24.24%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,NB,FALSE,50,66,75.76%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,RF,TRUE,19,66,28.79%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,RF,FALSE,47,66,71.21%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,SVM,TRUE,12,66,18.18%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,SVM,FALSE,54,66,81.82%,6
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,CART,TRUE,32,44,72.73%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,CART,FALSE,12,44,27.27%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,KNN,TRUE,22,44,50.00%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,KNN,FALSE,22,44,50.00%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,LR,TRUE,37,44,84.09%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,LR,FALSE,7,44,15.91%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,NB,TRUE,29,44,65.91%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,NB,FALSE,15,44,34.09%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,NB,TRUE,29,44,65.91%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,NB,FALSE,15,44,34.09%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,RF,TRUE,30,44,68.18%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,RF,FALSE,14,44,31.82%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,SVM,TRUE,11,44,25.00%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,SVM,FALSE,33,44,75.00%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,CART,TRUE,4,7,57.14%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,CART,FALSE,3,7,42.86%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,KNN,TRUE,2,7,28.57%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,KNN,FALSE,5,7,71.43%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,LR,TRUE,4,7,57.14%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,LR,FALSE,3,7,42.86%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,NB,TRUE,4,7,57.14%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,NB,FALSE,3,7,42.86%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,NB,TRUE,4,7,57.14%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,NB,FALSE,3,7,42.86%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,RF,TRUE,2,7,28.57%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,RF,FALSE,5,7,71.43%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,SVM,TRUE,5,7,71.43%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,SVM,FALSE,2,7,28.57%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,CART,TRUE,10,23,43.48%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,CART,FALSE,13,23,56.52%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,KNN,TRUE,9,23,39.13%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,KNN,FALSE,14,23,60.87%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,LR,TRUE,13,23,56.52%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,LR,FALSE,10,23,43.48%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,NB,TRUE,5,23,21.74%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,NB,FALSE,18,23,78.26%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,NB,TRUE,5,23,21.74%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,NB,FALSE,18,23,78.26%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,RF,TRUE,9,23,39.13%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,RF,FALSE,14,23,60.87%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,SVM,TRUE,4,23,17.39%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,SVM,FALSE,19,23,82.61%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,CART,TRUE,2,4,50.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,CART,FALSE,2,4,50.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,KNN,TRUE,1,4,25.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,KNN,FALSE,3,4,75.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,LR,TRUE,1,4,25.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,LR,FALSE,3,4,75.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,NB,TRUE,1,4,25.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,NB,FALSE,3,4,75.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,NB,TRUE,1,4,25.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,NB,FALSE,3,4,75.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,RF,TRUE,1,4,25.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,RF,FALSE,3,4,75.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,SVM,TRUE,1,4,25.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,SVM,FALSE,3,4,75.00%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,BERT,TRUE,3,3,100.00%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,BERT,FALSE,0,3,0.00%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,CART,TRUE,1,3,33.33%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,CART,FALSE,2,3,66.67%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,KNN,TRUE,1,3,33.33%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,KNN,FALSE,2,3,66.67%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,LR,TRUE,2,3,66.67%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,LR,FALSE,1,3,33.33%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,NB,TRUE,2,3,66.67%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,NB,FALSE,1,3,33.33%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,RF,TRUE,2,3,66.67%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,RF,FALSE,1,3,33.33%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,SVM,TRUE,1,3,33.33%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,SVM,FALSE,2,3,66.67%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,CART,TRUE,16,37,43.24%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,CART,FALSE,21,37,56.76%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,KNN,TRUE,16,37,43.24%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,KNN,FALSE,21,37,56.76%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,LR,TRUE,24,37,64.86%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,LR,FALSE,13,37,35.14%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,NB,TRUE,28,37,75.68%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,NB,FALSE,9,37,24.32%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,NB,TRUE,28,37,75.68%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,NB,FALSE,9,37,24.32%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,RF,TRUE,22,37,59.46%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,RF,FALSE,15,37,40.54%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,SVM,TRUE,23,37,62.16%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,SVM,FALSE,14,37,37.84%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,CART,TRUE,20,32,62.50%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,CART,FALSE,12,32,37.50%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,KNN,TRUE,13,32,40.63%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,KNN,FALSE,19,32,59.38%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,LR,TRUE,21,32,65.63%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,LR,FALSE,11,32,34.38%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,NB,TRUE,13,32,40.63%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,NB,FALSE,19,32,59.38%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,NB,TRUE,13,32,40.63%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,NB,FALSE,19,32,59.38%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,RF,TRUE,19,32,59.38%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,RF,FALSE,13,32,40.63%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,SVM,TRUE,5,32,15.63%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,SVM,FALSE,27,32,84.38%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,CART,TRUE,30,40,75.00%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,CART,FALSE,10,40,25.00%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,KNN,TRUE,29,40,72.50%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,KNN,FALSE,11,40,27.50%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,LR,TRUE,34,40,85.00%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,LR,FALSE,6,40,15.00%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,NB,TRUE,35,40,87.50%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,NB,FALSE,5,40,12.50%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,NB,TRUE,35,40,87.50%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,NB,FALSE,5,40,12.50%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,RF,TRUE,34,40,85.00%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,RF,FALSE,6,40,15.00%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,SVM,TRUE,35,40,87.50%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,SVM,FALSE,5,40,12.50%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,CART,TRUE,40,54,74.07%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,CART,FALSE,14,54,25.93%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,KNN,TRUE,39,54,72.22%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,KNN,FALSE,15,54,27.78%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,LR,TRUE,42,54,77.78%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,LR,FALSE,12,54,22.22%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,NB,TRUE,47,54,87.04%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,NB,FALSE,7,54,12.96%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,NB,TRUE,47,54,87.04%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,NB,FALSE,7,54,12.96%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,RF,TRUE,47,54,87.04%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,RF,FALSE,7,54,12.96%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,SVM,TRUE,47,54,87.04%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,SVM,FALSE,7,54,12.96%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,CART,TRUE,3,7,42.86%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,CART,FALSE,4,7,57.14%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,KNN,TRUE,6,7,85.71%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,KNN,FALSE,1,7,14.29%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,LR,TRUE,5,7,71.43%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,LR,FALSE,2,7,28.57%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,NB,TRUE,4,7,57.14%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,NB,FALSE,3,7,42.86%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,NB,TRUE,4,7,57.14%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,NB,FALSE,3,7,42.86%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,RF,TRUE,4,7,57.14%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,RF,FALSE,3,7,42.86%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,SVM,TRUE,6,7,85.71%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,SVM,FALSE,1,7,14.29%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,CART,TRUE,44,61,72.13%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,CART,FALSE,17,61,27.87%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,KNN,TRUE,42,61,68.85%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,KNN,FALSE,19,61,31.15%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,LR,TRUE,44,61,72.13%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,LR,FALSE,17,61,27.87%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,NB,TRUE,45,61,73.77%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,NB,FALSE,16,61,26.23%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,NB,TRUE,45,61,73.77%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,NB,FALSE,16,61,26.23%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,RF,TRUE,54,61,88.52%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,RF,FALSE,7,61,11.48%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,SVM,TRUE,50,61,81.97%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,SVM,FALSE,11,61,18.03%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,CART,TRUE,29,39,74.36%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,CART,FALSE,10,39,25.64%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,KNN,TRUE,34,39,87.18%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,KNN,FALSE,5,39,12.82%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,LR,TRUE,32,39,82.05%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,LR,FALSE,7,39,17.95%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,NB,TRUE,31,39,79.49%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,NB,FALSE,8,39,20.51%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,NB,TRUE,31,39,79.49%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,NB,FALSE,8,39,20.51%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,RF,TRUE,34,39,87.18%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,RF,FALSE,5,39,12.82%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,SVM,TRUE,35,39,89.74%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,SVM,FALSE,4,39,10.26%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,CART,TRUE,141,185,76.22%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,CART,FALSE,44,185,23.78%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,KNN,TRUE,132,185,71.35%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,KNN,FALSE,53,185,28.65%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,LR,TRUE,141,185,76.22%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,LR,FALSE,44,185,23.78%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,NB,TRUE,158,185,85.41%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,NB,FALSE,27,185,14.59%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,NB,TRUE,158,185,85.41%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,NB,FALSE,27,185,14.59%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,RF,TRUE,168,185,90.81%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,RF,FALSE,17,185,9.19%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,SVM,TRUE,164,185,88.65%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,SVM,FALSE,21,185,11.35%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,CART,TRUE,65,83,78.31%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,CART,FALSE,18,83,21.69%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,KNN,TRUE,72,83,86.75%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,KNN,FALSE,11,83,13.25%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,LR,TRUE,75,83,90.36%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,LR,FALSE,8,83,9.64%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,NB,TRUE,74,83,89.16%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,NB,FALSE,9,83,10.84%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,NB,TRUE,74,83,89.16%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,NB,FALSE,9,83,10.84%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,RF,TRUE,79,83,95.18%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,RF,FALSE,4,83,4.82%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,SVM,TRUE,76,83,91.57%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,SVM,FALSE,7,83,8.43%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,CART,TRUE,129,174,74.14%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,CART,FALSE,45,174,25.86%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,KNN,TRUE,126,174,72.41%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,KNN,FALSE,48,174,27.59%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,LR,TRUE,153,174,87.93%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,LR,FALSE,21,174,12.07%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,NB,TRUE,144,174,82.76%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,NB,FALSE,30,174,17.24%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,NB,TRUE,144,174,82.76%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,NB,FALSE,30,174,17.24%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,RF,TRUE,166,174,95.40%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,RF,FALSE,8,174,4.60%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,SVM,TRUE,152,174,87.36%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,SVM,FALSE,22,174,12.64%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,CART,TRUE,1,3,33.33%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,CART,FALSE,2,3,66.67%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,KNN,TRUE,1,3,33.33%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,KNN,FALSE,2,3,66.67%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,LR,TRUE,3,3,100.00%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,LR,FALSE,0,3,0.00%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,NB,TRUE,1,3,33.33%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,NB,FALSE,2,3,66.67%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,NB,TRUE,1,3,33.33%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,NB,FALSE,2,3,66.67%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,RF,TRUE,1,3,33.33%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,RF,FALSE,2,3,66.67%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,SVM,TRUE,2,3,66.67%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,SVM,FALSE,1,3,33.33%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,CART,TRUE,4,9,44.44%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,CART,FALSE,5,9,55.56%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,KNN,TRUE,3,9,33.33%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,KNN,FALSE,6,9,66.67%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,LR,TRUE,4,9,44.44%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,LR,FALSE,5,9,55.56%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,NB,TRUE,1,9,11.11%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,NB,FALSE,8,9,88.89%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,NB,TRUE,1,9,11.11%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,NB,FALSE,8,9,88.89%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,RF,TRUE,1,9,11.11%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,RF,FALSE,8,9,88.89%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,SVM,TRUE,2,9,22.22%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,SVM,FALSE,7,9,77.78%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,CART,TRUE,4,7,57.14%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,CART,FALSE,3,7,42.86%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,KNN,TRUE,1,7,14.29%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,KNN,FALSE,6,7,85.71%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,LR,TRUE,2,7,28.57%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,LR,FALSE,5,7,71.43%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,NB,TRUE,2,7,28.57%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,NB,FALSE,5,7,71.43%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,NB,TRUE,2,7,28.57%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,NB,FALSE,5,7,71.43%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,RF,TRUE,2,7,28.57%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,RF,FALSE,5,7,71.43%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,SVM,TRUE,1,7,14.29%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,SVM,FALSE,6,7,85.71%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,CART,TRUE,26,40,65.00%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,CART,FALSE,14,40,35.00%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,KNN,TRUE,13,40,32.50%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,KNN,FALSE,27,40,67.50%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,LR,TRUE,29,40,72.50%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,LR,FALSE,11,40,27.50%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,NB,TRUE,28,40,70.00%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,NB,FALSE,12,40,30.00%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,NB,TRUE,28,40,70.00%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,NB,FALSE,12,40,30.00%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,RF,TRUE,23,40,57.50%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,RF,FALSE,17,40,42.50%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,SVM,TRUE,6,40,15.00%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,SVM,FALSE,34,40,85.00%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,CART,TRUE,9,13,69.23%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,CART,FALSE,4,13,30.77%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,KNN,TRUE,3,13,23.08%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,KNN,FALSE,10,13,76.92%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,LR,TRUE,11,13,84.62%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,LR,FALSE,2,13,15.38%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,NB,TRUE,11,13,84.62%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,NB,FALSE,2,13,15.38%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,NB,TRUE,11,13,84.62%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,NB,FALSE,2,13,15.38%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,RF,TRUE,11,13,84.62%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,RF,FALSE,2,13,15.38%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,SVM,TRUE,9,13,69.23%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,SVM,FALSE,4,13,30.77%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,CART,TRUE,20,29,68.97%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,CART,FALSE,9,29,31.03%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,KNN,TRUE,12,29,41.38%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,KNN,FALSE,17,29,58.62%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,LR,TRUE,23,29,79.31%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,LR,FALSE,6,29,20.69%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,NB,TRUE,21,29,72.41%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,NB,FALSE,8,29,27.59%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,NB,TRUE,21,29,72.41%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,NB,FALSE,8,29,27.59%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,RF,TRUE,17,29,58.62%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,RF,FALSE,12,29,41.38%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,SVM,TRUE,9,29,31.03%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,SVM,FALSE,20,29,68.97%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,CART,TRUE,7,8,87.50%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,CART,FALSE,1,8,12.50%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,KNN,TRUE,7,8,87.50%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,KNN,FALSE,1,8,12.50%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,LR,TRUE,6,8,75.00%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,LR,FALSE,2,8,25.00%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,NB,TRUE,6,8,75.00%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,NB,FALSE,2,8,25.00%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,NB,TRUE,6,8,75.00%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,NB,FALSE,2,8,25.00%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,RF,TRUE,5,8,62.50%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,RF,FALSE,3,8,37.50%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,SVM,TRUE,5,8,62.50%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,SVM,FALSE,3,8,37.50%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,CART,TRUE,12,15,80.00%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,CART,FALSE,3,15,20.00%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,KNN,TRUE,11,15,73.33%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,KNN,FALSE,4,15,26.67%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,LR,TRUE,12,15,80.00%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,LR,FALSE,3,15,20.00%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,NB,TRUE,11,15,73.33%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,NB,FALSE,4,15,26.67%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,NB,TRUE,11,15,73.33%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,NB,FALSE,4,15,26.67%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,RF,TRUE,13,15,86.67%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,RF,FALSE,2,15,13.33%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,SVM,TRUE,14,15,93.33%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,SVM,FALSE,1,15,6.67%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,CART,TRUE,9,9,100.00%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,CART,FALSE,0,9,0.00%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,KNN,TRUE,8,9,88.89%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,KNN,FALSE,1,9,11.11%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,LR,TRUE,9,9,100.00%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,LR,FALSE,0,9,0.00%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,NB,TRUE,8,9,88.89%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,NB,FALSE,1,9,11.11%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,NB,TRUE,8,9,88.89%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,NB,FALSE,1,9,11.11%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,RF,TRUE,8,9,88.89%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,RF,FALSE,1,9,11.11%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,SVM,TRUE,9,9,100.00%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,SVM,FALSE,0,9,0.00%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,CART,TRUE,18,31,58.06%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,CART,FALSE,13,31,41.94%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,KNN,TRUE,18,31,58.06%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,KNN,FALSE,13,31,41.94%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,LR,TRUE,23,31,74.19%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,LR,FALSE,8,31,25.81%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,NB,TRUE,27,31,87.10%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,NB,FALSE,4,31,12.90%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,NB,TRUE,27,31,87.10%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,NB,FALSE,4,31,12.90%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,RF,TRUE,26,31,83.87%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,RF,FALSE,5,31,16.13%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,SVM,TRUE,24,31,77.42%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,SVM,FALSE,7,31,22.58%,7
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,BERT,TRUE,57,58,98.28%,1
+rq1_gh_civil_uncivil,Issues dataset,Appreciation and excitement,Civil,BERT,FALSE,1,58,1.72%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,BERT,TRUE,17,18,94.44%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Appreciation and excitement,Civil,BERT,FALSE,1,18,5.56%,1
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,BERT,TRUE,43,47,91.49%,2
+rq1_gh_civil_uncivil,Issues dataset,Commanding,Civil,BERT,FALSE,4,47,8.51%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,BERT,TRUE,7,9,77.78%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Commanding,Civil,BERT,FALSE,2,9,22.22%,2
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,BERT,TRUE,10,12,26.32%,3
+rq1_gh_civil_uncivil,Issues dataset,Confusion,Civil,BERT,FALSE,2,12,5.26%,3
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,BERT,TRUE,51,59,86.44%,4
+rq1_gh_civil_uncivil,Issues dataset,Considerateness,Civil,BERT,FALSE,8,59,13.56%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,BERT,TRUE,16,17,94.12%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Considerateness,Civil,BERT,FALSE,1,17,5.88%,4
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,BERT,TRUE,14,17,82.35%,5
+rq1_gh_civil_uncivil,Issues dataset,Criticizing oppression,Civil,BERT,FALSE,3,17,17.65%,5
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,BERT,TRUE,54,62,87.10%,6
+rq1_gh_civil_uncivil,Issues dataset,Dissatisfaction,Civil,BERT,FALSE,8,62,12.90%,6
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,BERT,TRUE,43,45,95.56%,7
+rq1_gh_civil_uncivil,Issues dataset,Expectation,Civil,BERT,FALSE,2,45,4.44%,7
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,BERT,TRUE,17,23,73.91%,8
+rq1_gh_civil_uncivil,Issues dataset,Friendly joke,Civil,BERT,FALSE,6,23,26.09%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,BERT,TRUE,5,7,71.43%,8
+rq1_lkml_civil_uncivil,Code reviews dataset,Friendly joke,Civil,BERT,FALSE,2,7,28.57%,8
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,BERT,TRUE,3,3,100.00%,9
+rq1_gh_civil_uncivil,Issues dataset,Hope to get feedback,Civil,BERT,FALSE,0,3,0.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,BERT,TRUE,3,3,100.00%,9
+rq1_lkml_civil_uncivil,Code reviews dataset,Hope to get feedback,Civil,BERT,FALSE,0,3,0.00%,9
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,BERT,TRUE,28,32,87.50%,10
+rq1_gh_civil_uncivil,Issues dataset,Humility,Civil,BERT,FALSE,4,32,12.50%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,BERT,TRUE,36,38,94.74%,10
+rq1_lkml_civil_uncivil,Code reviews dataset,Humility,Civil,BERT,FALSE,2,38,5.26%,10
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,BERT,TRUE,8,9,88.89%,11
+rq1_gh_civil_uncivil,Issues dataset,Oppression,Civil,BERT,FALSE,1,9,11.11%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,BERT,TRUE,3,3,100.00%,11
+rq1_lkml_civil_uncivil,Code reviews dataset,Oppression,Civil,BERT,FALSE,0,3,0.00%,11
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,BERT,TRUE,38,42,90.48%,12
+rq1_gh_civil_uncivil,Issues dataset,Sadness,Civil,BERT,FALSE,4,42,9.52%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,BERT,TRUE,6,7,85.71%,12
+rq1_lkml_civil_uncivil,Code reviews dataset,Sadness,Civil,BERT,FALSE,1,7,14.29%,12
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,BERT,TRUE,30,31,96.77%,13
+rq1_gh_civil_uncivil,Issues dataset,Sincere apologies,Civil,BERT,FALSE,1,31,3.23%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,BERT,TRUE,14,14,100.00%,13
+rq1_lkml_civil_uncivil,Code reviews dataset,Sincere apologies,Civil,BERT,FALSE,0,14,0.00%,13
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,BERT,TRUE,270,276,97.83%,1
+rq1_gh_civil_uncivil,Issues dataset,Annoyance and bitter frustration,Uncivil,BERT,FALSE,6,276,2.17%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,BERT,TRUE,60,63,95.24%,1
+rq1_lkml_civil_uncivil,Code reviews dataset,Annoyance and bitter frustration,Uncivil,BERT,FALSE,3,63,4.76%,1
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,BERT,TRUE,52,53,98.11%,2
+rq1_gh_civil_uncivil,Issues dataset,Impatience,Uncivil,BERT,FALSE,1,53,1.89%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,BERT,TRUE,40,40,100.00%,2
+rq1_lkml_civil_uncivil,Code reviews dataset,Impatience,Uncivil,BERT,FALSE,0,40,0.00%,2
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,BERT,TRUE,60,63,95.24%,3
+rq1_gh_civil_uncivil,Issues dataset,Irony,Uncivil,BERT,FALSE,3,63,4.76%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,BERT,TRUE,5,6,83.33%,3
+rq1_lkml_civil_uncivil,Code reviews dataset,Irony,Uncivil,BERT,FALSE,1,6,16.67%,3
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,BERT,TRUE,178,181,98.34%,4
+rq1_gh_civil_uncivil,Issues dataset,Mocking,Uncivil,BERT,FALSE,3,181,1.66%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,BERT,TRUE,31,32,96.88%,4
+rq1_lkml_civil_uncivil,Code reviews dataset,Mocking,Uncivil,BERT,FALSE,1,32,3.13%,4
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,BERT,TRUE,178,182,97.80%,5
+rq1_gh_civil_uncivil,Issues dataset,Name calling,Uncivil,BERT,FALSE,4,182,2.20%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,BERT,TRUE,109,110,99.09%,5
+rq1_lkml_civil_uncivil,Code reviews dataset,Name calling,Uncivil,BERT,FALSE,1,110,0.91%,5
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,BERT,TRUE,15,15,100.00%,6
+rq1_gh_civil_uncivil,Issues dataset,Threat,Uncivil,BERT,FALSE,0,15,0.00%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,BERT,TRUE,11,13,84.62%,6
+rq1_lkml_civil_uncivil,Code reviews dataset,Threat,Uncivil,BERT,FALSE,2,13,15.38%,6
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,BERT,TRUE,32,33,96.97%,7
+rq1_gh_civil_uncivil,Issues dataset,Vulgarity,Uncivil,BERT,FALSE,1,33,3.03%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,BERT,TRUE,11,13,84.62%,7
+rq1_lkml_civil_uncivil,Code reviews dataset,Vulgarity,Uncivil,BERT,FALSE,2,13,15.38%,7

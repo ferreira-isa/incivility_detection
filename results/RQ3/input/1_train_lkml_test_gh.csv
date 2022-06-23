@@ -1,0 +1,57 @@
+dataset,model,class_balancing,metric,class0,class1,average,order
+civil_uncivil,BERT,Random undersampling,F1,0.80,0.46,0.63,1
+civil_uncivil,BERT,Random undersampling,MCC,,,0.27,1
+civil_uncivil,BERT,Random undersampling,Precision,0.77,0.53,0.65,1
+civil_uncivil,BERT,Random undersampling,Recall,0.84,0.41,0.62,1
+civil_uncivil,CART,Random Oversampling,F1,0.71,0.35,0.53,2
+civil_uncivil,CART,Random Oversampling,MCC,,,0.07,2
+civil_uncivil,CART,Random Oversampling,Precision,0.72,0.35,0.53,2
+civil_uncivil,CART,Random Oversampling,Recall,0.71,0.36,0.53,2
+civil_uncivil,KNN,Random Undersampling,F1,0.73,0.33,0.53,3
+civil_uncivil,KNN,Random Undersampling,MCC,,,0.06,3
+civil_uncivil,KNN,Random Undersampling,Precision,0.71,0.35,0.53,3
+civil_uncivil,KNN,Random Undersampling,Recall,0.75,0.32,0.53,3
+civil_uncivil,LR,Random Oversampling,F1,0.75,0.37,0.56,4
+civil_uncivil,LR,Random Oversampling,MCC,,,0.12,4
+civil_uncivil,LR,Random Oversampling,Precision,0.73,0.40,0.57,4
+civil_uncivil,LR,Random Oversampling,Recall,0.77,0.35,0.56,4
+civil_uncivil,NB,Random Undersampling,F1,0.72,0.48,0.60,5
+civil_uncivil,NB,Random Undersampling,MCC,,,0.22,5
+civil_uncivil,NB,Random Undersampling,Precision,0.78,0.43,0.60,5
+civil_uncivil,NB,Random Undersampling,Recall,0.68,0.56,0.62,5
+civil_uncivil,RF,Random Undersampling,F1,0.78,0.35,0.56,6
+civil_uncivil,RF,Random Undersampling,MCC,,,0.14,6
+civil_uncivil,RF,Random Undersampling,Precision,0.73,0.43,0.58,6
+civil_uncivil,RF,Random Undersampling,Recall,0.83,0.29,0.56,6
+civil_uncivil,SVM,Random Oversampling,F1,0.74,0.40,0.57,7
+civil_uncivil,SVM,Random Oversampling,MCC,,,0.14,7
+civil_uncivil,SVM,Random Oversampling,Precision,0.74,0.41,0.57,7
+civil_uncivil,SVM,Random Oversampling,Recall,0.75,0.39,0.57,7
+technical_non_technical,BERT,Random undersampling,F1,0.32,0.91,0.61,1
+technical_non_technical,BERT,Random undersampling,MCC,,,0.24,1
+technical_non_technical,BERT,Random undersampling,Precision,0.39,0.89,0.64,1
+technical_non_technical,BERT,Random undersampling,Recall,0.30,0.92,0.61,1
+technical_non_technical,CART,Random Oversampling,F1,0.20,0.89,0.55,2
+technical_non_technical,CART,Random Oversampling,MCC,,,0.10,2
+technical_non_technical,CART,Random Oversampling,Precision,0.25,0.87,0.56,2
+technical_non_technical,CART,Random Oversampling,Recall,0.17,0.91,0.54,2
+technical_non_technical,KNN,Random Undersampling,F1,0.16,0.83,0.50,3
+technical_non_technical,KNN,Random Undersampling,MCC,,,0.00,3
+technical_non_technical,KNN,Random Undersampling,Precision,0.14,0.86,0.50,3
+technical_non_technical,KNN,Random Undersampling,Recall,0.20,0.81,0.50,3
+technical_non_technical,LR,Random Oversampling,F1,0.27,0.36,0.31,4
+technical_non_technical,LR,Random Oversampling,MCC,,,0.09,4
+technical_non_technical,LR,Random Oversampling,Precision,0.16,0.92,0.54,4
+technical_non_technical,LR,Random Oversampling,Recall,0.88,0.24,0.56,4
+technical_non_technical,NB,Random Undersampling,F1,0.28,0.49,0.39,5
+technical_non_technical,NB,Random Undersampling,MCC,,,0.14,5
+technical_non_technical,NB,Random Undersampling,Precision,0.17,0.93,0.55,5
+technical_non_technical,NB,Random Undersampling,Recall,0.85,0.33,0.59,5
+technical_non_technical,RF,Random Undersampling,F1,0.13,0.92,0.53,6
+technical_non_technical,RF,Random Undersampling,MCC,,,0.12,6
+technical_non_technical,RF,Random Undersampling,Precision,0.39,0.87,0.63,6
+technical_non_technical,RF,Random Undersampling,Recall,0.08,0.98,0.53,6
+technical_non_technical,SVM,SMOTE,F1,0.00,0.93,0.46,7
+technical_non_technical,SVM,SMOTE,MCC,,,0.00,7
+technical_non_technical,SVM,SMOTE,Precision,0.10,0.86,0.48,7
+technical_non_technical,SVM,SMOTE,Recall,0.00,1.00,0.50,7

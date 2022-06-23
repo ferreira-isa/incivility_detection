@@ -1,0 +1,127 @@
+model,class_balancing,metric,class0,class1,order,data
+BERT,Random Oversampling,F1,0.36,0.50,1,Code reviews dataset
+BERT,Random Undersampling,F1,0.90,0.99,1,Code reviews dataset
+BERT,-,F1,0.84,0.98,1,Code reviews dataset
+CART,Random Oversampling,F1,0.29,0.90,2,Code reviews dataset
+CART,Random Undersampling,F1,0.28,0.87,2,Code reviews dataset
+CART,SMOTE,F1,0.27,0.89,2,Code reviews dataset
+KNN,Random Oversampling,F1,0.12,0.89,3,Code reviews dataset
+KNN,Random Undersampling,F1,0.18,0.84,3,Code reviews dataset
+KNN,SMOTE,F1,0.16,0.81,3,Code reviews dataset
+LR,Random Oversampling,F1,0.36,0.85,4,Code reviews dataset
+LR,Random Undersampling,F1,0.34,0.84,4,Code reviews dataset
+LR,SMOTE,F1,0.35,0.86,4,Code reviews dataset
+NB,Random Oversampling,F1,0.24,0.79,5,Code reviews dataset
+NB,Random Undersampling,F1,0.25,0.79,5,Code reviews dataset
+NB,SMOTE,F1,0.24,0.79,5,Code reviews dataset
+RF,Random Oversampling,F1,0.07,0.94,6,Code reviews dataset
+RF,Random Undersampling,F1,0.25,0.94,6,Code reviews dataset
+RF,SMOTE,F1,0.08,0.94,6,Code reviews dataset
+SVM,Random Oversampling,F1,0.01,0.94,7,Code reviews dataset
+SVM,Random Undersampling,F1,0.00,0.94,7,Code reviews dataset
+SVM,SMOTE,F1,0.04,0.94,7,Code reviews dataset
+BERT,Random Oversampling,Precision,0.29,0.77,1,Code reviews dataset
+BERT,Random Undersampling,Precision,0.88,0.99,1,Code reviews dataset
+BERT,-,Precision,0.88,0.97,1,Code reviews dataset
+CART,Random Oversampling,Precision,0.26,0.91,2,Code reviews dataset
+CART,Random Undersampling,Precision,0.22,0.91,2,Code reviews dataset
+CART,SMOTE,Precision,0.24,0.91,2,Code reviews dataset
+KNN,Random Oversampling,Precision,0.12,0.89,3,Code reviews dataset
+KNN,Random Undersampling,Precision,0.14,0.89,3,Code reviews dataset
+KNN,SMOTE,Precision,0.12,0.89,3,Code reviews dataset
+LR,Random Oversampling,Precision,0.26,0.94,4,Code reviews dataset
+LR,Random Undersampling,Precision,0.24,0.94,4,Code reviews dataset
+LR,SMOTE,Precision,0.26,0.94,4,Code reviews dataset
+NB,Random Oversampling,Precision,0.17,0.91,5,Code reviews dataset
+NB,Random Undersampling,Precision,0.17,0.91,5,Code reviews dataset
+NB,SMOTE,Precision,0.16,0.91,5,Code reviews dataset
+RF,Random Oversampling,Precision,0.60,0.89,6,Code reviews dataset
+RF,Random Undersampling,Precision,0.55,0.90,6,Code reviews dataset
+RF,SMOTE,Precision,0.54,0.89,6,Code reviews dataset
+SVM,Random Oversampling,Precision,0.20,0.89,7,Code reviews dataset
+SVM,Random Undersampling,Precision,0.00,0.89,7,Code reviews dataset
+SVM,SMOTE,Precision,0.33,0.89,7,Code reviews dataset
+BERT,Random Oversampling,Recall,0.81,0.46,1,Code reviews dataset
+BERT,Random Undersampling,Recall,0.92,0.98,1,Code reviews dataset
+BERT,-,Recall,0.81,0.99,1,Code reviews dataset
+CART,Random Oversampling,Recall,0.33,0.88,2,Code reviews dataset
+CART,Random Undersampling,Recall,0.39,0.82,2,Code reviews dataset
+CART,SMOTE,Recall,0.32,0.88,2,Code reviews dataset
+KNN,Random Oversampling,Recall,0.12,0.89,3,Code reviews dataset
+KNN,Random Undersampling,Recall,0.26,0.79,3,Code reviews dataset
+KNN,SMOTE,Recall,0.27,0.74,3,Code reviews dataset
+LR,Random Oversampling,Recall,0.61,0.78,4,Code reviews dataset
+LR,Random Undersampling,Recall,0.59,0.76,4,Code reviews dataset
+LR,SMOTE,Recall,0.56,0.79,4,Code reviews dataset
+NB,Random Oversampling,Recall,0.46,0.70,5,Code reviews dataset
+NB,Random Undersampling,Recall,0.47,0.70,5,Code reviews dataset
+NB,SMOTE,Recall,0.46,0.70,5,Code reviews dataset
+RF,Random Oversampling,Recall,0.04,1.00,6,Code reviews dataset
+RF,Random Undersampling,Recall,0.17,0.98,6,Code reviews dataset
+RF,SMOTE,Recall,0.05,1.00,6,Code reviews dataset
+SVM,Random Oversampling,Recall,0.01,1.00,7,Code reviews dataset
+SVM,Random Undersampling,Recall,0.00,1.00,7,Code reviews dataset
+SVM,SMOTE,Recall,0.02,0.99,7,Code reviews dataset
+BERT,Random Oversampling,Precision,0.82,0.98,1,Issues dataset
+BERT,Random Oversampling,Recall,0.86,0.97,1,Issues dataset
+BERT,Random Oversampling,F1,0.84,0.97,1,Issues dataset
+BERT,Random Undersampling,Precision,0.77,0.97,1,Issues dataset
+BERT,Random Undersampling,Recall,0.81,0.96,1,Issues dataset
+BERT,Random Undersampling,F1,0.83,0.96,1,Issues dataset
+BERT,-,Precision,0.92,0.97,1,Issues dataset
+BERT,-,Recall,0.83,0.99,1,Issues dataset
+BERT,-,F1,0.86,0.98,1,Issues dataset
+CART,Random Oversampling,Precision,0.36,0.91,2,Issues dataset
+CART,Random Oversampling,Recall,0.44,0.88,2,Issues dataset
+CART,Random Oversampling,F1,0.40,0.89,2,Issues dataset
+CART,Random Undersampling,Precision,0.32,0.92,2,Issues dataset
+CART,Random Undersampling,Recall,0.53,0.82,2,Issues dataset
+CART,Random Undersampling,F1,0.40,0.87,2,Issues dataset
+CART,SMOTE,Precision,0.37,0.92,2,Issues dataset
+CART,SMOTE,Recall,0.50,0.86,2,Issues dataset
+CART,SMOTE,F1,0.42,0.89,2,Issues dataset
+KNN,Random Oversampling,Precision,0.28,0.88,3,Issues dataset
+KNN,Random Oversampling,Recall,0.25,0.89,3,Issues dataset
+KNN,Random Oversampling,F1,0.27,0.89,3,Issues dataset
+KNN,Random Undersampling,Precision,0.25,0.89,3,Issues dataset
+KNN,Random Undersampling,Recall,0.34,0.84,3,Issues dataset
+KNN,Random Undersampling,F1,0.29,0.86,3,Issues dataset
+KNN,SMOTE,Precision,0.21,0.89,3,Issues dataset
+KNN,SMOTE,Recall,0.41,0.76,3,Issues dataset
+KNN,SMOTE,F1,0.28,0.82,3,Issues dataset
+LR,Random Oversampling,Precision,0.37,0.94,4,Issues dataset
+LR,Random Oversampling,Recall,0.68,0.81,4,Issues dataset
+LR,Random Oversampling,F1,0.48,0.87,4,Issues dataset
+LR,Random Undersampling,Precision,0.35,0.94,4,Issues dataset
+LR,Random Undersampling,Recall,0.70,0.80,4,Issues dataset
+LR,Random Undersampling,F1,0.47,0.86,4,Issues dataset
+LR,SMOTE,Precision,0.37,0.94,4,Issues dataset
+LR,SMOTE,Recall,0.66,0.82,4,Issues dataset
+LR,SMOTE,F1,0.47,0.88,4,Issues dataset
+NB,Random Oversampling,Precision,0.39,0.87,5,Issues dataset
+NB,Random Oversampling,Recall,0.11,0.97,5,Issues dataset
+NB,Random Oversampling,F1,0.17,0.92,5,Issues dataset
+NB,Random Undersampling,Precision,0.37,0.89,5,Issues dataset
+NB,Random Undersampling,Recall,0.32,0.91,5,Issues dataset
+NB,Random Undersampling,F1,0.34,0.90,5,Issues dataset
+NB,SMOTE,Precision,0.40,0.87,5,Issues dataset
+NB,SMOTE,Recall,0.11,0.97,5,Issues dataset
+NB,SMOTE,F1,0.17,0.92,5,Issues dataset
+RF,Random Oversampling,Precision,0.91,0.87,6,Issues dataset
+RF,Random Oversampling,Recall,0.07,1.00,6,Issues dataset
+RF,Random Oversampling,F1,0.12,0.93,6,Issues dataset
+RF,Random Undersampling,Precision,0.60,0.90,6,Issues dataset
+RF,Random Undersampling,Recall,0.31,0.97,6,Issues dataset
+RF,Random Undersampling,F1,0.41,0.93,6,Issues dataset
+RF,SMOTE,Precision,0.78,0.88,6,Issues dataset
+RF,SMOTE,Recall,0.15,0.99,6,Issues dataset
+RF,SMOTE,F1,0.25,0.93,6,Issues dataset
+SVM,Random Undersampling,Precision,1.00,0.87,7,Issues dataset
+SVM,Random Undersampling,Recall,0.03,1.00,7,Issues dataset
+SVM,Random Undersampling,F1,0.06,0.93,7,Issues dataset
+SVM,Random Oversampling,Precision,0.50,0.87,7,Issues dataset
+SVM,Random Oversampling,Recall,0.06,0.99,7,Issues dataset
+SVM,Random Oversampling,F1,0.11,0.92,7,Issues dataset
+SVM,SMOTE,Precision,0.45,0.87,7,Issues dataset
+SVM,SMOTE,Recall,0.07,0.99,7,Issues dataset
+SVM,SMOTE,F1,0.12,0.92,7,Issues dataset

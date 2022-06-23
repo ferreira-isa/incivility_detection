@@ -1,0 +1,507 @@
+dataset,data,quotation_tbdf_x,quotation_tbdf,label_correct,model,correctly_predicted?,count,total,%,order
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,BERT,TRUE,63,90,70.00%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,BERT,FALSE,27,90,30.00%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,CART,TRUE,8,19,42.11%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,CART,FALSE,11,19,57.89%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,KNN,TRUE,6,19,31.58%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,KNN,FALSE,13,19,68.42%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,LR,TRUE,13,19,68.42%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,LR,FALSE,6,19,31.58%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,NB,TRUE,8,19,42.11%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,NB,FALSE,11,19,57.89%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,RF,TRUE,1,19,5.26%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,RF,FALSE,18,19,94.74%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,SVM,TRUE,2,19,10.53%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,appreciation_excitement,Appreciation and excitement,Civil,SVM,FALSE,17,19,89.47%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,BERT,TRUE,40,58,68.97%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,BERT,FALSE,18,58,31.03%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,CART,TRUE,23,58,39.66%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,CART,FALSE,35,58,60.34%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,KNN,TRUE,19,58,32.76%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,KNN,FALSE,39,58,67.24%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,LR,TRUE,25,58,43.10%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,LR,FALSE,33,58,56.90%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,NB,TRUE,22,58,37.93%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,NB,FALSE,36,58,62.07%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,RF,TRUE,24,58,41.38%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,RF,FALSE,34,58,58.62%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,SVM,TRUE,5,58,8.62%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,appreciation_excitement,Appreciation and excitement,Civil,SVM,FALSE,53,58,91.38%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,BERT,TRUE,24,45,53.33%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,BERT,FALSE,21,45,46.67%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,CART,TRUE,6,9,66.67%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,CART,FALSE,3,9,33.33%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,KNN,TRUE,3,9,33.33%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,KNN,FALSE,6,9,66.67%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,LR,TRUE,6,9,66.67%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,LR,FALSE,3,9,33.33%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,NB,TRUE,4,9,44.44%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,NB,FALSE,5,9,55.56%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,RF,TRUE,2,9,22.22%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,RF,FALSE,7,9,77.78%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,SVM,TRUE,1,9,11.11%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,commanding,Commanding,Civil,SVM,FALSE,8,9,88.89%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,BERT,TRUE,67,235,28.51%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,BERT,FALSE,168,235,71.49%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,CART,TRUE,27,47,57.45%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,CART,FALSE,20,47,42.55%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,KNN,TRUE,19,47,40.43%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,KNN,FALSE,28,47,59.57%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,LR,TRUE,15,47,31.91%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,LR,FALSE,32,47,68.09%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,NB,TRUE,17,47,36.17%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,NB,FALSE,30,47,63.83%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,RF,TRUE,14,47,29.79%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,RF,FALSE,33,47,70.21%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,SVM,TRUE,14,47,29.79%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,commanding,Commanding,Civil,SVM,FALSE,33,47,70.21%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,BERT,TRUE,2,12,16.67%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,BERT,FALSE,10,12,83.33%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,CART,TRUE,4,12,33.33%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,CART,FALSE,8,12,66.67%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,KNN,TRUE,5,12,41.67%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,KNN,FALSE,7,12,58.33%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,LR,TRUE,6,12,50.00%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,LR,FALSE,6,12,50.00%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,NB,TRUE,4,12,33.33%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,NB,FALSE,8,12,66.67%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,RF,TRUE,7,12,58.33%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,RF,FALSE,5,12,41.67%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,SVM,TRUE,1,12,8.33%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,confusion,Confusion,Civil,SVM,FALSE,11,12,91.67%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,BERT,TRUE,34,85,40.00%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,BERT,FALSE,51,85,60.00%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,CART,TRUE,5,18,27.78%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,CART,FALSE,13,18,72.22%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,KNN,TRUE,6,18,33.33%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,KNN,FALSE,12,18,66.67%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,LR,TRUE,11,18,61.11%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,LR,FALSE,7,18,38.89%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,NB,TRUE,0,18,0.00%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,NB,FALSE,18,18,100.00%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,RF,TRUE,3,18,16.67%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,RF,FALSE,15,18,83.33%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,SVM,TRUE,0,18,0.00%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,considerateness,Considerateness,Civil,SVM,FALSE,18,18,100.00%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,BERT,TRUE,87,295,29.49%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,BERT,FALSE,208,295,70.51%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,CART,TRUE,30,60,50.00%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,CART,FALSE,30,60,50.00%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,KNN,TRUE,15,60,25.00%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,KNN,FALSE,45,60,75.00%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,LR,TRUE,19,60,31.67%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,LR,FALSE,41,60,68.33%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,NB,TRUE,37,60,61.67%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,NB,FALSE,23,60,38.33%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,RF,TRUE,24,60,40.00%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,RF,FALSE,36,60,60.00%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,SVM,TRUE,27,60,45.00%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,considerateness,Considerateness,Civil,SVM,FALSE,33,60,55.00%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,BERT,TRUE,4,17,23.53%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,BERT,FALSE,13,17,76.47%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,CART,TRUE,5,17,29.41%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,CART,FALSE,12,17,70.59%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,KNN,TRUE,3,17,17.65%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,KNN,FALSE,14,17,82.35%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,LR,TRUE,5,17,29.41%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,LR,FALSE,12,17,70.59%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,NB,TRUE,4,17,23.53%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,NB,FALSE,13,17,76.47%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,RF,TRUE,2,17,11.76%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,RF,FALSE,15,17,88.24%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,SVM,TRUE,1,17,5.88%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,criticizing_oppression,Criticizing oppression,Civil,SVM,FALSE,16,17,94.12%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,BERT,TRUE,58,310,18.71%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,BERT,FALSE,252,310,81.29%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,CART,TRUE,41,66,62.12%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,CART,FALSE,25,66,37.88%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,KNN,TRUE,19,66,28.79%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,KNN,FALSE,47,66,71.21%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,LR,TRUE,25,66,37.88%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,LR,FALSE,41,66,62.12%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,NB,TRUE,33,66,50.00%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,NB,FALSE,33,66,50.00%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,RF,TRUE,24,66,36.36%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,RF,FALSE,42,66,63.64%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,SVM,TRUE,30,66,45.45%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,dissatisfaction,Dissatisfaction,Civil,SVM,FALSE,36,66,54.55%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,BERT,TRUE,119,225,52.89%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,BERT,FALSE,106,225,47.11%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,CART,TRUE,19,44,43.18%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,CART,FALSE,25,44,56.82%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,KNN,TRUE,19,44,43.18%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,KNN,FALSE,25,44,56.82%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,LR,TRUE,6,44,13.64%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,LR,FALSE,38,44,86.36%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,NB,TRUE,18,44,40.91%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,NB,FALSE,26,44,59.09%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,RF,TRUE,17,44,38.64%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,RF,FALSE,27,44,61.36%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,SVM,TRUE,15,44,34.09%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,expectation,Expectation,Civil,SVM,FALSE,29,44,65.91%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,BERT,TRUE,10,35,28.57%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,BERT,FALSE,25,35,71.43%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,CART,TRUE,3,7,42.86%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,CART,FALSE,4,7,57.14%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,KNN,TRUE,1,7,14.29%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,KNN,FALSE,6,7,85.71%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,LR,TRUE,6,7,85.71%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,LR,FALSE,1,7,14.29%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,NB,TRUE,2,7,28.57%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,NB,FALSE,5,7,71.43%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,RF,TRUE,1,7,14.29%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,RF,FALSE,6,7,85.71%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,SVM,TRUE,0,7,0.00%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,friendly_joke,Friendly joke,Civil,SVM,FALSE,7,7,100.00%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,BERT,TRUE,65,115,56.52%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,BERT,FALSE,50,115,43.48%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,CART,TRUE,5,23,21.74%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,CART,FALSE,18,23,78.26%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,KNN,TRUE,9,23,39.13%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,KNN,FALSE,14,23,60.87%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,LR,TRUE,6,23,26.09%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,LR,FALSE,17,23,73.91%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,NB,TRUE,12,23,52.17%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,NB,FALSE,11,23,47.83%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,RF,TRUE,4,23,17.39%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,RF,FALSE,19,23,82.61%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,SVM,TRUE,8,23,34.78%,8
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,friendly_joke,Friendly joke,Civil,SVM,FALSE,15,23,65.22%,8
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,BERT,TRUE,15,15,100.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,BERT,FALSE,0,15,0.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,CART,TRUE,2,4,50.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,CART,FALSE,2,4,50.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,KNN,TRUE,0,4,0.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,KNN,FALSE,4,4,100.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,LR,TRUE,3,4,75.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,LR,FALSE,1,4,25.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,NB,TRUE,1,4,25.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,NB,FALSE,3,4,75.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,RF,TRUE,0,4,0.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,RF,FALSE,4,4,100.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,SVM,TRUE,1,4,25.00%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,hope_to_get_feedback,Hope to get feedback,Civil,SVM,FALSE,3,4,75.00%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,BERT,TRUE,3,3,100.00%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,BERT,FALSE,0,3,0.00%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,CART,TRUE,1,3,33.33%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,CART,FALSE,2,3,66.67%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,KNN,TRUE,0,3,0.00%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,KNN,FALSE,3,3,100.00%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,LR,TRUE,2,3,66.67%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,LR,FALSE,1,3,33.33%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,NB,TRUE,1,3,33.33%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,NB,FALSE,2,3,66.67%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,RF,TRUE,0,3,0.00%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,RF,FALSE,3,3,100.00%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,SVM,TRUE,1,3,33.33%,9
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,hope_to_get_feedback,Hope to get feedback,Civil,SVM,FALSE,2,3,66.67%,9
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,BERT,TRUE,103,190,54.21%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,BERT,FALSE,87,190,45.79%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,CART,TRUE,19,37,51.35%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,CART,FALSE,18,37,48.65%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,KNN,TRUE,11,37,29.73%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,KNN,FALSE,26,37,70.27%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,LR,TRUE,32,37,86.49%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,LR,FALSE,5,37,13.51%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,NB,TRUE,12,37,32.43%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,NB,FALSE,25,37,67.57%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,RF,TRUE,13,37,35.14%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,RF,FALSE,24,37,64.86%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,SVM,TRUE,3,37,8.11%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,humility,Humility,Civil,SVM,FALSE,34,37,91.89%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,BERT,TRUE,100,160,62.50%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,BERT,FALSE,60,160,37.50%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,CART,TRUE,17,32,53.13%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,CART,FALSE,15,32,46.88%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,KNN,TRUE,6,32,18.75%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,KNN,FALSE,26,32,81.25%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,LR,TRUE,17,32,53.13%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,LR,FALSE,15,32,46.88%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,NB,TRUE,25,32,78.13%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,NB,FALSE,7,32,21.88%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,NB,TRUE,25,32,78.13%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,NB,FALSE,7,32,21.88%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,RF,TRUE,18,32,56.25%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,RF,FALSE,14,32,43.75%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,SVM,TRUE,19,32,59.38%,10
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,humility,Humility,Civil,SVM,FALSE,13,32,40.63%,10
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,BERT,TRUE,9,15,60.00%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,BERT,FALSE,6,15,40.00%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,CART,TRUE,2,3,66.67%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,CART,FALSE,1,3,33.33%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,KNN,TRUE,0,3,0.00%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,KNN,FALSE,3,3,100.00%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,LR,TRUE,3,3,100.00%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,LR,FALSE,0,3,0.00%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,NB,TRUE,2,3,66.67%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,NB,FALSE,1,3,33.33%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,RF,TRUE,0,3,0.00%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,RF,FALSE,3,3,100.00%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,SVM,TRUE,1,3,33.33%,11
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,oppression,Oppression,Civil,SVM,FALSE,2,3,66.67%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,BERT,TRUE,10,45,22.22%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,BERT,FALSE,35,45,77.78%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,CART,TRUE,2,9,22.22%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,CART,FALSE,7,9,77.78%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,KNN,TRUE,2,9,22.22%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,KNN,FALSE,7,9,77.78%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,LR,TRUE,2,9,22.22%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,LR,FALSE,7,9,77.78%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,NB,TRUE,6,9,66.67%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,NB,FALSE,3,9,33.33%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,RF,TRUE,2,9,22.22%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,RF,FALSE,7,9,77.78%,11
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,SVM,TRUE,4,9,44.44%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,oppression,Oppression,Civil,SVM,FALSE,5,9,55.56%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,BERT,TRUE,7,35,20.00%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,BERT,FALSE,28,35,80.00%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,CART,TRUE,2,7,28.57%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,CART,FALSE,5,7,71.43%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,KNN,TRUE,1,7,14.29%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,KNN,FALSE,6,7,85.71%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,LR,TRUE,3,7,42.86%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,LR,FALSE,4,7,57.14%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,NB,TRUE,3,7,42.86%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,NB,FALSE,4,7,57.14%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,RF,TRUE,1,7,14.29%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,RF,FALSE,6,7,85.71%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,SVM,TRUE,0,7,0.00%,12
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sadness,Sadness,Civil,SVM,FALSE,7,7,100.00%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,BERT,TRUE,84,210,40.00%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,BERT,FALSE,126,210,60.00%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,CART,TRUE,21,40,52.50%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,CART,FALSE,19,40,47.50%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,KNN,TRUE,9,40,22.50%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,KNN,FALSE,31,40,77.50%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,LR,TRUE,16,40,40.00%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,LR,FALSE,24,40,60.00%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,NB,TRUE,26,40,65.00%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,NB,FALSE,14,40,35.00%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,RF,TRUE,16,40,40.00%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,RF,FALSE,24,40,60.00%,12
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,SVM,TRUE,22,40,55.00%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sadness,Sadness,Civil,SVM,FALSE,18,40,45.00%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,BERT,TRUE,52,70,74.29%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,BERT,FALSE,18,70,25.71%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,CART,TRUE,11,13,84.62%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,CART,FALSE,2,13,15.38%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,KNN,TRUE,5,13,38.46%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,KNN,FALSE,8,13,61.54%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,LR,TRUE,13,13,100.00%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,LR,FALSE,0,13,0.00%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,NB,TRUE,9,13,69.23%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,NB,FALSE,4,13,30.77%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,RF,TRUE,12,13,92.31%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,RF,FALSE,1,13,7.69%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,SVM,TRUE,1,13,7.69%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,sincere_apologies,Sincere apologies,Civil,SVM,FALSE,12,13,92.31%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,BERT,TRUE,130,155,83.87%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,BERT,FALSE,25,155,16.13%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,CART,TRUE,12,29,41.38%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,CART,FALSE,17,29,58.62%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,KNN,TRUE,13,29,44.83%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,KNN,FALSE,16,29,55.17%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,LR,TRUE,14,29,48.28%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,LR,FALSE,15,29,51.72%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,NB,TRUE,24,29,82.76%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,NB,FALSE,5,29,17.24%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,RF,TRUE,21,29,72.41%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,RF,FALSE,8,29,27.59%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,SVM,TRUE,19,29,65.52%,13
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,sincere_apologies,Sincere apologies,Civil,SVM,FALSE,10,29,34.48%,13
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,BERT,TRUE,250,315,79.37%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,BERT,FALSE,65,315,20.63%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,CART,TRUE,62,90,68.89%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,CART,FALSE,28,90,31.11%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,KNN,TRUE,71,90,78.89%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,KNN,FALSE,19,90,21.11%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,LR,TRUE,52,90,57.78%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,LR,FALSE,38,90,42.22%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,NB,TRUE,75,90,83.33%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,NB,FALSE,15,90,16.67%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,RF,TRUE,83,90,92.22%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,RF,FALSE,7,90,7.78%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,SVM,TRUE,82,90,91.11%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,bitter_frustration,Annoyance and bitter frustration,Uncivil,SVM,FALSE,8,90,8.89%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,BERT,TRUE,1227,1380,88.91%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,BERT,FALSE,153,1380,11.09%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,CART,TRUE,147,283,51.94%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,CART,FALSE,136,283,48.06%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,KNN,TRUE,209,283,73.85%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,KNN,FALSE,74,283,26.15%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,LR,TRUE,212,283,74.91%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,LR,FALSE,71,283,25.09%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,NB,TRUE,186,283,65.72%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,NB,FALSE,97,283,34.28%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,RF,TRUE,208,283,73.50%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,RF,FALSE,75,283,26.50%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,SVM,TRUE,200,283,70.67%,1
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,bitter_frustration,Annoyance and bitter frustration,Uncivil,SVM,FALSE,83,283,29.33%,1
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,BERT,TRUE,133,200,66.50%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,BERT,FALSE,67,200,33.50%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,CART,TRUE,22,40,55.00%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,CART,FALSE,18,40,45.00%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,KNN,TRUE,27,40,67.50%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,KNN,FALSE,13,40,32.50%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,LR,TRUE,20,40,50.00%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,LR,FALSE,20,40,50.00%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,NB,TRUE,26,40,65.00%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,NB,FALSE,14,40,35.00%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,RF,TRUE,38,40,95.00%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,RF,FALSE,2,40,5.00%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,SVM,TRUE,37,40,92.50%,2
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,impatience,Impatience,Uncivil,SVM,FALSE,3,40,7.50%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,BERT,TRUE,229,265,86.42%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,BERT,FALSE,36,265,13.58%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,CART,TRUE,27,54,50.00%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,CART,FALSE,27,54,50.00%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,KNN,TRUE,39,54,72.22%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,KNN,FALSE,15,54,27.78%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,LR,TRUE,42,54,77.78%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,LR,FALSE,12,54,22.22%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,NB,TRUE,36,54,66.67%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,NB,FALSE,18,54,33.33%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,RF,TRUE,38,54,70.37%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,RF,FALSE,16,54,29.63%,2
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,SVM,TRUE,36,54,66.67%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,impatience,Impatience,Uncivil,SVM,FALSE,18,54,33.33%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,BERT,TRUE,17,30,56.67%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,BERT,FALSE,13,30,43.33%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,CART,TRUE,5,7,71.43%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,CART,FALSE,2,7,28.57%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,KNN,TRUE,5,7,71.43%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,KNN,FALSE,2,7,28.57%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,LR,TRUE,3,7,42.86%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,LR,FALSE,4,7,57.14%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,NB,TRUE,3,7,42.86%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,NB,FALSE,4,7,57.14%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,RF,TRUE,5,7,71.43%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,RF,FALSE,2,7,28.57%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,SVM,TRUE,5,7,71.43%,3
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,irony,Irony,Uncivil,SVM,FALSE,2,7,28.57%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,BERT,TRUE,193,315,61.27%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,BERT,FALSE,122,315,38.73%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,CART,TRUE,35,61,57.38%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,CART,FALSE,26,61,42.62%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,KNN,TRUE,41,61,67.21%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,KNN,FALSE,20,61,32.79%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,LR,TRUE,50,61,81.97%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,LR,FALSE,11,61,18.03%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,NB,TRUE,37,61,60.66%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,NB,FALSE,24,61,39.34%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,RF,TRUE,45,61,73.77%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,RF,FALSE,16,61,26.23%,3
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,SVM,TRUE,41,61,67.21%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,irony,Irony,Uncivil,SVM,FALSE,20,61,32.79%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,BERT,TRUE,141,160,88.13%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,BERT,FALSE,19,160,11.88%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,CART,TRUE,27,39,69.23%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,CART,FALSE,12,39,30.77%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,KNN,TRUE,27,39,69.23%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,KNN,FALSE,12,39,30.77%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,LR,TRUE,26,39,66.67%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,LR,FALSE,13,39,33.33%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,NB,TRUE,33,39,84.62%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,NB,FALSE,6,39,15.38%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,RF,TRUE,36,39,92.31%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,RF,FALSE,3,39,7.69%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,SVM,TRUE,36,39,92.31%,4
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,mocking,Mocking,Uncivil,SVM,FALSE,3,39,7.69%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,BERT,TRUE,694,905,76.69%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,BERT,FALSE,211,905,23.31%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,CART,TRUE,101,185,54.59%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,CART,FALSE,84,185,45.41%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,KNN,TRUE,144,185,77.84%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,KNN,FALSE,41,185,22.16%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,LR,TRUE,157,185,84.86%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,LR,FALSE,28,185,15.14%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,NB,TRUE,120,185,64.86%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,NB,FALSE,65,185,35.14%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,RF,TRUE,144,185,77.84%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,RF,FALSE,41,185,22.16%,4
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,SVM,TRUE,143,185,77.30%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,mocking,Mocking,Uncivil,SVM,FALSE,42,185,22.70%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,BERT,TRUE,482,550,87.64%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,BERT,FALSE,68,550,12.36%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,CART,TRUE,60,83,72.29%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,CART,FALSE,23,83,27.71%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,KNN,TRUE,62,83,74.70%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,KNN,FALSE,21,83,25.30%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,LR,TRUE,56,83,67.47%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,LR,FALSE,27,83,32.53%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,NB,TRUE,71,83,85.54%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,NB,FALSE,12,83,14.46%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,RF,TRUE,77,83,92.77%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,RF,FALSE,6,83,7.23%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,SVM,TRUE,80,83,96.39%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,name_calling,Name calling,Uncivil,SVM,FALSE,3,83,3.61%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,BERT,TRUE,845,910,92.86%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,BERT,FALSE,65,910,7.14%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,CART,TRUE,90,174,51.72%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,CART,FALSE,84,174,48.28%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,KNN,TRUE,130,174,74.71%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,KNN,FALSE,44,174,25.29%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,LR,TRUE,138,174,79.31%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,LR,FALSE,36,174,20.69%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,NB,TRUE,115,174,66.09%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,NB,FALSE,59,174,33.91%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,RF,TRUE,135,174,77.59%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,RF,FALSE,39,174,22.41%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,SVM,TRUE,129,174,74.14%,5
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,name_calling,Name calling,Uncivil,SVM,FALSE,45,174,25.86%,5
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,BERT,TRUE,53,65,81.54%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,BERT,FALSE,12,65,18.46%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,CART,TRUE,4,8,50.00%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,CART,FALSE,4,8,50.00%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,KNN,TRUE,6,8,75.00%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,KNN,FALSE,2,8,25.00%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,LR,TRUE,1,8,12.50%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,LR,FALSE,7,8,87.50%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,NB,TRUE,8,8,100.00%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,NB,FALSE,0,8,0.00%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,RF,TRUE,7,8,87.50%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,RF,FALSE,1,8,12.50%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,SVM,TRUE,8,8,100.00%,6
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,threat,Threat,Uncivil,SVM,FALSE,0,8,0.00%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,BERT,TRUE,57,75,76.00%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,BERT,FALSE,18,75,24.00%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,CART,TRUE,10,15,66.67%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,CART,FALSE,5,15,33.33%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,KNN,TRUE,10,15,66.67%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,KNN,FALSE,5,15,33.33%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,LR,TRUE,11,15,73.33%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,LR,FALSE,4,15,26.67%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,NB,TRUE,9,15,60.00%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,NB,FALSE,6,15,40.00%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,RF,TRUE,9,15,60.00%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,RF,FALSE,6,15,40.00%,6
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,SVM,TRUE,10,15,66.67%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,threat,Threat,Uncivil,SVM,FALSE,5,15,33.33%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,BERT,TRUE,59,65,90.77%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,BERT,FALSE,6,65,9.23%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,CART,TRUE,4,9,44.44%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,CART,FALSE,5,9,55.56%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,KNN,TRUE,7,9,77.78%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,KNN,FALSE,2,9,22.22%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,LR,TRUE,8,9,88.89%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,LR,FALSE,1,9,11.11%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,NB,TRUE,7,9,77.78%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,NB,FALSE,2,9,22.22%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,RF,TRUE,7,9,77.78%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,RF,FALSE,2,9,22.22%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,SVM,TRUE,8,9,88.89%,7
+rq3_train_gh_test_lkml_civil_uncivil,Train on issues and test on code reviews,vulgarity,Vulgarity,Uncivil,SVM,FALSE,1,9,11.11%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,BERT,TRUE,116,165,70.30%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,BERT,FALSE,49,165,29.70%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,CART,TRUE,16,31,51.61%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,CART,FALSE,15,31,48.39%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,KNN,TRUE,25,31,80.65%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,KNN,FALSE,6,31,19.35%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,LR,TRUE,19,31,61.29%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,LR,FALSE,12,31,38.71%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,NB,TRUE,19,31,61.29%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,NB,FALSE,12,31,38.71%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,RF,TRUE,21,31,67.74%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,RF,FALSE,10,31,32.26%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,SVM,TRUE,17,31,54.84%,7
+rq3_train_lkml_test_gh_civil_uncivil,Train on code reviews and test on issues,vulgarity,Vulgarity,Uncivil,SVM,FALSE,14,31,45.16%,7
